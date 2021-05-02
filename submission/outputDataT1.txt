@@ -1,0 +1,4012 @@
+../instances/i-1.txt epsilon-greedy 0 0.02 100.0 -0.1757199522785236 
+
+../instances/i-1.txt epsilon-greedy 1 0.02 100.0 2.66070997330954 
+
+../instances/i-1.txt epsilon-greedy 2 0.02 100.0 -11.059108571828473 
+
+../instances/i-1.txt epsilon-greedy 3 0.02 100.0 -4.899573027473621 
+
+../instances/i-1.txt epsilon-greedy 4 0.02 100.0 3.7540536392705275 
+
+../instances/i-1.txt epsilon-greedy 5 0.02 100.0 9.85245062620147 
+
+../instances/i-1.txt epsilon-greedy 6 0.02 100.0 -2.1211659211714897 
+
+../instances/i-1.txt epsilon-greedy 7 0.02 100.0 -1.625717066261355 
+
+../instances/i-1.txt epsilon-greedy 8 0.02 100.0 13.582290254815257 
+
+../instances/i-1.txt epsilon-greedy 9 0.02 100.0 -6.18375569853267 
+
+../instances/i-1.txt epsilon-greedy 10 0.02 100.0 -3.0027760682115003 
+
+../instances/i-1.txt epsilon-greedy 11 0.02 100.0 6.5681609991162695 
+
+../instances/i-1.txt epsilon-greedy 12 0.02 100.0 8.026400089581898 
+
+../instances/i-1.txt epsilon-greedy 13 0.02 100.0 0.26283251359430715 
+
+../instances/i-1.txt epsilon-greedy 14 0.02 100.0 -6.131905956151341 
+
+../instances/i-1.txt epsilon-greedy 15 0.02 100.0 -8.02165568997411 
+
+../instances/i-1.txt epsilon-greedy 16 0.02 100.0 -6.257938019626344 
+
+../instances/i-1.txt epsilon-greedy 17 0.02 100.0 -1.0987436305702696 
+
+../instances/i-1.txt epsilon-greedy 18 0.02 100.0 7.61719651274082 
+
+../instances/i-1.txt epsilon-greedy 19 0.02 100.0 -3.312688392766591 
+
+../instances/i-1.txt epsilon-greedy 20 0.02 100.0 49.57281805764476 
+
+../instances/i-1.txt epsilon-greedy 21 0.02 100.0 -3.0109688384276376 
+
+../instances/i-1.txt epsilon-greedy 22 0.02 100.0 -2.256585624061623 
+
+../instances/i-1.txt epsilon-greedy 23 0.02 100.0 36.500958807821306 
+
+../instances/i-1.txt epsilon-greedy 24 0.02 100.0 0.6615497895832692 
+
+../instances/i-1.txt epsilon-greedy 25 0.02 100.0 -1.6740742277399654 
+
+../instances/i-1.txt epsilon-greedy 26 0.02 100.0 -5.829339279905065 
+
+../instances/i-1.txt epsilon-greedy 27 0.02 100.0 23.73547753002521 
+
+../instances/i-1.txt epsilon-greedy 28 0.02 100.0 7.200268004892111 
+
+../instances/i-1.txt epsilon-greedy 29 0.02 100.0 1.6319383950274537 
+
+../instances/i-1.txt epsilon-greedy 30 0.02 100.0 -5.668882685330346 
+
+../instances/i-1.txt epsilon-greedy 31 0.02 100.0 6.058127159903632 
+
+../instances/i-1.txt epsilon-greedy 32 0.02 100.0 1.5458119466546583 
+
+../instances/i-1.txt epsilon-greedy 33 0.02 100.0 6.978747535286856 
+
+../instances/i-1.txt epsilon-greedy 34 0.02 100.0 5.225702489617517 
+
+../instances/i-1.txt epsilon-greedy 35 0.02 100.0 2.0583098924407928 
+
+../instances/i-1.txt epsilon-greedy 36 0.02 100.0 -5.665465215586325 
+
+../instances/i-1.txt epsilon-greedy 37 0.02 100.0 0.39981758377023746 
+
+../instances/i-1.txt epsilon-greedy 38 0.02 100.0 12.55321598354141 
+
+../instances/i-1.txt epsilon-greedy 39 0.02 100.0 9.900694971684285 
+
+../instances/i-1.txt epsilon-greedy 40 0.02 100.0 2.04640967872305 
+
+../instances/i-1.txt epsilon-greedy 41 0.02 100.0 -8.018688919855638 
+
+../instances/i-1.txt epsilon-greedy 42 0.02 100.0 35.23150458066556 
+
+../instances/i-1.txt epsilon-greedy 43 0.02 100.0 1.8423711358132877 
+
+../instances/i-1.txt epsilon-greedy 44 0.02 100.0 -2.482890515276455 
+
+../instances/i-1.txt epsilon-greedy 45 0.02 100.0 -13.98742823235909 
+
+../instances/i-1.txt epsilon-greedy 46 0.02 100.0 1.71399748466838 
+
+../instances/i-1.txt epsilon-greedy 47 0.02 100.0 27.887988848638564 
+
+../instances/i-1.txt epsilon-greedy 48 0.02 100.0 31.396195724424675 
+
+../instances/i-1.txt epsilon-greedy 49 0.02 100.0 7.179189192143699 
+
+../instances/i-1.txt epsilon-greedy 0 0.02 400.0 2.4857702465959313 
+
+../instances/i-1.txt epsilon-greedy 1 0.02 400.0 13.364977818467628 
+
+../instances/i-1.txt epsilon-greedy 2 0.02 400.0 -10.060600546200671 
+
+../instances/i-1.txt epsilon-greedy 3 0.02 400.0 -11.441491427094247 
+
+../instances/i-1.txt epsilon-greedy 4 0.02 400.0 7.534759747920711 
+
+../instances/i-1.txt epsilon-greedy 5 0.02 400.0 22.4633578190075 
+
+../instances/i-1.txt epsilon-greedy 6 0.02 400.0 -6.214984404558656 
+
+../instances/i-1.txt epsilon-greedy 7 0.02 400.0 -1.4921040702320352 
+
+../instances/i-1.txt epsilon-greedy 8 0.02 400.0 7.616399769332279 
+
+../instances/i-1.txt epsilon-greedy 9 0.02 400.0 -8.564350202000682 
+
+../instances/i-1.txt epsilon-greedy 10 0.02 400.0 1.6442182974780182 
+
+../instances/i-1.txt epsilon-greedy 11 0.02 400.0 19.71336805215307 
+
+../instances/i-1.txt epsilon-greedy 12 0.02 400.0 24.444351863729448 
+
+../instances/i-1.txt epsilon-greedy 13 0.02 400.0 -2.908959736435915 
+
+../instances/i-1.txt epsilon-greedy 14 0.02 400.0 -8.636281090371297 
+
+../instances/i-1.txt epsilon-greedy 15 0.02 400.0 -4.256593777624248 
+
+../instances/i-1.txt epsilon-greedy 16 0.02 400.0 -8.247809050564612 
+
+../instances/i-1.txt epsilon-greedy 17 0.02 400.0 2.2838879688871834 
+
+../instances/i-1.txt epsilon-greedy 18 0.02 400.0 25.25951351454548 
+
+../instances/i-1.txt epsilon-greedy 19 0.02 400.0 -10.902273164049198 
+
+../instances/i-1.txt epsilon-greedy 20 0.02 400.0 69.65136623652958 
+
+../instances/i-1.txt epsilon-greedy 21 0.02 400.0 -2.339922255362417 
+
+../instances/i-1.txt epsilon-greedy 22 0.02 400.0 -10.186557200219474 
+
+../instances/i-1.txt epsilon-greedy 23 0.02 400.0 74.20891033930823 
+
+../instances/i-1.txt epsilon-greedy 24 0.02 400.0 5.31492178620794 
+
+../instances/i-1.txt epsilon-greedy 25 0.02 400.0 5.120458687923188 
+
+../instances/i-1.txt epsilon-greedy 26 0.02 400.0 -0.5977333607595554 
+
+../instances/i-1.txt epsilon-greedy 27 0.02 400.0 35.81252477574534 
+
+../instances/i-1.txt epsilon-greedy 28 0.02 400.0 18.029675378761326 
+
+../instances/i-1.txt epsilon-greedy 29 0.02 400.0 0.4083320122091496 
+
+../instances/i-1.txt epsilon-greedy 30 0.02 400.0 -12.09258831606139 
+
+../instances/i-1.txt epsilon-greedy 31 0.02 400.0 1.1033888748433087 
+
+../instances/i-1.txt epsilon-greedy 32 0.02 400.0 5.958807644547038 
+
+../instances/i-1.txt epsilon-greedy 33 0.02 400.0 19.676221133639466 
+
+../instances/i-1.txt epsilon-greedy 34 0.02 400.0 26.502087229144426 
+
+../instances/i-1.txt epsilon-greedy 35 0.02 400.0 10.334498927219446 
+
+../instances/i-1.txt epsilon-greedy 36 0.02 400.0 -8.518462199669825 
+
+../instances/i-1.txt epsilon-greedy 37 0.02 400.0 -3.186155549852347 
+
+../instances/i-1.txt epsilon-greedy 38 0.02 400.0 12.354130272114627 
+
+../instances/i-1.txt epsilon-greedy 39 0.02 400.0 23.951002890430185 
+
+../instances/i-1.txt epsilon-greedy 40 0.02 400.0 7.386579477471872 
+
+../instances/i-1.txt epsilon-greedy 41 0.02 400.0 -2.064608945646391 
+
+../instances/i-1.txt epsilon-greedy 42 0.02 400.0 42.702695841905125 
+
+../instances/i-1.txt epsilon-greedy 43 0.02 400.0 1.0521080730682868 
+
+../instances/i-1.txt epsilon-greedy 44 0.02 400.0 0.7726580252290813 
+
+../instances/i-1.txt epsilon-greedy 45 0.02 400.0 -13.727790622829616 
+
+../instances/i-1.txt epsilon-greedy 46 0.02 400.0 -1.0984880654796396 
+
+../instances/i-1.txt epsilon-greedy 47 0.02 400.0 44.429597551339754 
+
+../instances/i-1.txt epsilon-greedy 48 0.02 400.0 50.896683267294264 
+
+../instances/i-1.txt epsilon-greedy 49 0.02 400.0 14.535123227778643 
+
+../instances/i-1.txt epsilon-greedy 0 0.02 1600.0 31.376187883198142 
+
+../instances/i-1.txt epsilon-greedy 1 0.02 1600.0 40.61110369480231 
+
+../instances/i-1.txt epsilon-greedy 2 0.02 1600.0 12.784193287476915 
+
+../instances/i-1.txt epsilon-greedy 3 0.02 1600.0 -36.4817985307808 
+
+../instances/i-1.txt epsilon-greedy 4 0.02 1600.0 20.23433926102303 
+
+../instances/i-1.txt epsilon-greedy 5 0.02 1600.0 44.904517997837814 
+
+../instances/i-1.txt epsilon-greedy 6 0.02 1600.0 1.6462246581978746 
+
+../instances/i-1.txt epsilon-greedy 7 0.02 1600.0 6.02379263934232 
+
+../instances/i-1.txt epsilon-greedy 8 0.02 1600.0 -0.43929251122170343 
+
+../instances/i-1.txt epsilon-greedy 9 0.02 1600.0 -9.692614008618204 
+
+../instances/i-1.txt epsilon-greedy 10 0.02 1600.0 19.86407620459432 
+
+../instances/i-1.txt epsilon-greedy 11 0.02 1600.0 57.638327260106934 
+
+../instances/i-1.txt epsilon-greedy 12 0.02 1600.0 69.13764718273033 
+
+../instances/i-1.txt epsilon-greedy 13 0.02 1600.0 -15.16095548120353 
+
+../instances/i-1.txt epsilon-greedy 14 0.02 1600.0 -7.6529184310926315 
+
+../instances/i-1.txt epsilon-greedy 15 0.02 1600.0 8.86213705852028 
+
+../instances/i-1.txt epsilon-greedy 16 0.02 1600.0 -7.548243254005356 
+
+../instances/i-1.txt epsilon-greedy 17 0.02 1600.0 -11.489281803849892 
+
+../instances/i-1.txt epsilon-greedy 18 0.02 1600.0 39.99711108940624 
+
+../instances/i-1.txt epsilon-greedy 19 0.02 1600.0 -24.316764895158823 
+
+../instances/i-1.txt epsilon-greedy 20 0.02 1600.0 70.03454771523324 
+
+../instances/i-1.txt epsilon-greedy 21 0.02 1600.0 4.7766486791346745 
+
+../instances/i-1.txt epsilon-greedy 22 0.02 1600.0 -29.739702678551055 
+
+../instances/i-1.txt epsilon-greedy 23 0.02 1600.0 74.67864225321856 
+
+../instances/i-1.txt epsilon-greedy 24 0.02 1600.0 19.339397566215798 
+
+../instances/i-1.txt epsilon-greedy 25 0.02 1600.0 45.03659228490996 
+
+../instances/i-1.txt epsilon-greedy 26 0.02 1600.0 26.193670609349496 
+
+../instances/i-1.txt epsilon-greedy 27 0.02 1600.0 52.35876484569122 
+
+../instances/i-1.txt epsilon-greedy 28 0.02 1600.0 55.74158050635366 
+
+../instances/i-1.txt epsilon-greedy 29 0.02 1600.0 14.731478542747094 
+
+../instances/i-1.txt epsilon-greedy 30 0.02 1600.0 -2.535825224313746 
+
+../instances/i-1.txt epsilon-greedy 31 0.02 1600.0 6.756048805980016 
+
+../instances/i-1.txt epsilon-greedy 32 0.02 1600.0 2.6782828464308808 
+
+../instances/i-1.txt epsilon-greedy 33 0.02 1600.0 47.7351745710761 
+
+../instances/i-1.txt epsilon-greedy 34 0.02 1600.0 51.260995102452924 
+
+../instances/i-1.txt epsilon-greedy 35 0.02 1600.0 39.06963476111109 
+
+../instances/i-1.txt epsilon-greedy 36 0.02 1600.0 -11.528576456346435 
+
+../instances/i-1.txt epsilon-greedy 37 0.02 1600.0 3.4819421045442382 
+
+../instances/i-1.txt epsilon-greedy 38 0.02 1600.0 2.061140356854356 
+
+../instances/i-1.txt epsilon-greedy 39 0.02 1600.0 49.100255903440335 
+
+../instances/i-1.txt epsilon-greedy 40 0.02 1600.0 43.638489347227996 
+
+../instances/i-1.txt epsilon-greedy 41 0.02 1600.0 25.42059309549691 
+
+../instances/i-1.txt epsilon-greedy 42 0.02 1600.0 66.06825125322271 
+
+../instances/i-1.txt epsilon-greedy 43 0.02 1600.0 9.292265393411341 
+
+../instances/i-1.txt epsilon-greedy 44 0.02 1600.0 15.660690744371458 
+
+../instances/i-1.txt epsilon-greedy 45 0.02 1600.0 -8.63577320214174 
+
+../instances/i-1.txt epsilon-greedy 46 0.02 1600.0 1.0903006458278668 
+
+../instances/i-1.txt epsilon-greedy 47 0.02 1600.0 79.83538789792595 
+
+../instances/i-1.txt epsilon-greedy 48 0.02 1600.0 77.39794983009438 
+
+../instances/i-1.txt epsilon-greedy 49 0.02 1600.0 22.6187984850864 
+
+../instances/i-1.txt epsilon-greedy 0 0.02 6400.0 64.01761408454807 
+
+../instances/i-1.txt epsilon-greedy 1 0.02 6400.0 92.75801431381878 
+
+../instances/i-1.txt epsilon-greedy 2 0.02 6400.0 68.93031543834857 
+
+../instances/i-1.txt epsilon-greedy 3 0.02 6400.0 -41.199844222908354 
+
+../instances/i-1.txt epsilon-greedy 4 0.02 6400.0 71.64530635021316 
+
+../instances/i-1.txt epsilon-greedy 5 0.02 6400.0 80.32684565933698 
+
+../instances/i-1.txt epsilon-greedy 6 0.02 6400.0 56.478752870265886 
+
+../instances/i-1.txt epsilon-greedy 7 0.02 6400.0 37.6574792361954 
+
+../instances/i-1.txt epsilon-greedy 8 0.02 6400.0 -17.07951156477641 
+
+../instances/i-1.txt epsilon-greedy 9 0.02 6400.0 38.258613393557276 
+
+../instances/i-1.txt epsilon-greedy 10 0.02 6400.0 52.216866677504214 
+
+../instances/i-1.txt epsilon-greedy 11 0.02 6400.0 149.39889529947644 
+
+../instances/i-1.txt epsilon-greedy 12 0.02 6400.0 127.0520818809417 
+
+../instances/i-1.txt epsilon-greedy 13 0.02 6400.0 -1.582122063826823 
+
+../instances/i-1.txt epsilon-greedy 14 0.02 6400.0 17.740148558606833 
+
+../instances/i-1.txt epsilon-greedy 15 0.02 6400.0 43.940733296920754 
+
+../instances/i-1.txt epsilon-greedy 16 0.02 6400.0 52.21826809276297 
+
+../instances/i-1.txt epsilon-greedy 17 0.02 6400.0 -8.979872947421589 
+
+../instances/i-1.txt epsilon-greedy 18 0.02 6400.0 65.53944481898158 
+
+../instances/i-1.txt epsilon-greedy 19 0.02 6400.0 -2.590269449771976 
+
+../instances/i-1.txt epsilon-greedy 20 0.02 6400.0 129.2216504274689 
+
+../instances/i-1.txt epsilon-greedy 21 0.02 6400.0 42.65888002184039 
+
+../instances/i-1.txt epsilon-greedy 22 0.02 6400.0 -29.968209967203958 
+
+../instances/i-1.txt epsilon-greedy 23 0.02 6400.0 76.57913070777707 
+
+../instances/i-1.txt epsilon-greedy 24 0.02 6400.0 77.66058461551083 
+
+../instances/i-1.txt epsilon-greedy 25 0.02 6400.0 99.60047566947976 
+
+../instances/i-1.txt epsilon-greedy 26 0.02 6400.0 78.16391129277679 
+
+../instances/i-1.txt epsilon-greedy 27 0.02 6400.0 105.97341162585286 
+
+../instances/i-1.txt epsilon-greedy 28 0.02 6400.0 118.52208817178996 
+
+../instances/i-1.txt epsilon-greedy 29 0.02 6400.0 84.34696005046486 
+
+../instances/i-1.txt epsilon-greedy 30 0.02 6400.0 54.80864626281891 
+
+../instances/i-1.txt epsilon-greedy 31 0.02 6400.0 45.68882462960029 
+
+../instances/i-1.txt epsilon-greedy 32 0.02 6400.0 -1.567458627518187 
+
+../instances/i-1.txt epsilon-greedy 33 0.02 6400.0 77.04408553865498 
+
+../instances/i-1.txt epsilon-greedy 34 0.02 6400.0 86.38796782343873 
+
+../instances/i-1.txt epsilon-greedy 35 0.02 6400.0 87.00600068397473 
+
+../instances/i-1.txt epsilon-greedy 36 0.02 6400.0 8.739520883768046 
+
+../instances/i-1.txt epsilon-greedy 37 0.02 6400.0 42.528063606366246 
+
+../instances/i-1.txt epsilon-greedy 38 0.02 6400.0 -11.281983086009369 
+
+../instances/i-1.txt epsilon-greedy 39 0.02 6400.0 114.51682328823073 
+
+../instances/i-1.txt epsilon-greedy 40 0.02 6400.0 124.49422249542717 
+
+../instances/i-1.txt epsilon-greedy 41 0.02 6400.0 82.6114312696201 
+
+../instances/i-1.txt epsilon-greedy 42 0.02 6400.0 116.15603991161493 
+
+../instances/i-1.txt epsilon-greedy 43 0.02 6400.0 72.5123823200123 
+
+../instances/i-1.txt epsilon-greedy 44 0.02 6400.0 72.21003455416768 
+
+../instances/i-1.txt epsilon-greedy 45 0.02 6400.0 41.22471569027547 
+
+../instances/i-1.txt epsilon-greedy 46 0.02 6400.0 15.209065801257793 
+
+../instances/i-1.txt epsilon-greedy 47 0.02 6400.0 148.49027613140052 
+
+../instances/i-1.txt epsilon-greedy 48 0.02 6400.0 150.01549174318473 
+
+../instances/i-1.txt epsilon-greedy 49 0.02 6400.0 32.2612117085654 
+
+../instances/i-1.txt epsilon-greedy 0 0.02 25600.0 262.1551474457738 
+
+../instances/i-1.txt epsilon-greedy 1 0.02 25600.0 329.6702139708227 
+
+../instances/i-1.txt epsilon-greedy 2 0.02 25600.0 265.13027568175687 
+
+../instances/i-1.txt epsilon-greedy 3 0.02 25600.0 62.55821814716015 
+
+../instances/i-1.txt epsilon-greedy 4 0.02 25600.0 293.32801811634107 
+
+../instances/i-1.txt epsilon-greedy 5 0.02 25600.0 231.07736307812837 
+
+../instances/i-1.txt epsilon-greedy 6 0.02 25600.0 196.7929037127134 
+
+../instances/i-1.txt epsilon-greedy 7 0.02 25600.0 186.51385630424195 
+
+../instances/i-1.txt epsilon-greedy 8 0.02 25600.0 53.19316691795293 
+
+../instances/i-1.txt epsilon-greedy 9 0.02 25600.0 215.2807107235905 
+
+../instances/i-1.txt epsilon-greedy 10 0.02 25600.0 196.81327050494977 
+
+../instances/i-1.txt epsilon-greedy 11 0.02 25600.0 410.488930180784 
+
+../instances/i-1.txt epsilon-greedy 12 0.02 25600.0 319.8712601694366 
+
+../instances/i-1.txt epsilon-greedy 13 0.02 25600.0 120.86941037416638 
+
+../instances/i-1.txt epsilon-greedy 14 0.02 25600.0 179.2431614347968 
+
+../instances/i-1.txt epsilon-greedy 15 0.02 25600.0 188.08171104949878 
+
+../instances/i-1.txt epsilon-greedy 16 0.02 25600.0 270.46035008230876 
+
+../instances/i-1.txt epsilon-greedy 17 0.02 25600.0 103.4817310018703 
+
+../instances/i-1.txt epsilon-greedy 18 0.02 25600.0 189.17319823471394 
+
+../instances/i-1.txt epsilon-greedy 19 0.02 25600.0 167.03619581515952 
+
+../instances/i-1.txt epsilon-greedy 20 0.02 25600.0 351.06260874302353 
+
+../instances/i-1.txt epsilon-greedy 21 0.02 25600.0 221.4355056266001 
+
+../instances/i-1.txt epsilon-greedy 22 0.02 25600.0 175.8085756709571 
+
+../instances/i-1.txt epsilon-greedy 23 0.02 25600.0 182.11987528826856 
+
+../instances/i-1.txt epsilon-greedy 24 0.02 25600.0 260.85371958357035 
+
+../instances/i-1.txt epsilon-greedy 25 0.02 25600.0 246.41804716847275 
+
+../instances/i-1.txt epsilon-greedy 26 0.02 25600.0 242.1478724720693 
+
+../instances/i-1.txt epsilon-greedy 27 0.02 25600.0 347.27465893538806 
+
+../instances/i-1.txt epsilon-greedy 28 0.02 25600.0 284.93404645661 
+
+../instances/i-1.txt epsilon-greedy 29 0.02 25600.0 308.61440531673543 
+
+../instances/i-1.txt epsilon-greedy 30 0.02 25600.0 217.6267976625651 
+
+../instances/i-1.txt epsilon-greedy 31 0.02 25600.0 184.4651770385016 
+
+../instances/i-1.txt epsilon-greedy 32 0.02 25600.0 139.71539038306707 
+
+../instances/i-1.txt epsilon-greedy 33 0.02 25600.0 131.68369288760374 
+
+../instances/i-1.txt epsilon-greedy 34 0.02 25600.0 249.70913561890237 
+
+../instances/i-1.txt epsilon-greedy 35 0.02 25600.0 302.03409469003867 
+
+../instances/i-1.txt epsilon-greedy 36 0.02 25600.0 158.8590056580035 
+
+../instances/i-1.txt epsilon-greedy 37 0.02 25600.0 181.79755217234867 
+
+../instances/i-1.txt epsilon-greedy 38 0.02 25600.0 106.87917037249561 
+
+../instances/i-1.txt epsilon-greedy 39 0.02 25600.0 310.68590319021934 
+
+../instances/i-1.txt epsilon-greedy 40 0.02 25600.0 361.8624549708519 
+
+../instances/i-1.txt epsilon-greedy 41 0.02 25600.0 208.19739546914045 
+
+../instances/i-1.txt epsilon-greedy 42 0.02 25600.0 316.101997966718 
+
+../instances/i-1.txt epsilon-greedy 43 0.02 25600.0 276.11108927308635 
+
+../instances/i-1.txt epsilon-greedy 44 0.02 25600.0 289.42862428950565 
+
+../instances/i-1.txt epsilon-greedy 45 0.02 25600.0 157.60461605879394 
+
+../instances/i-1.txt epsilon-greedy 46 0.02 25600.0 7.646819887102568 
+
+../instances/i-1.txt epsilon-greedy 47 0.02 25600.0 232.68598223525342 
+
+../instances/i-1.txt epsilon-greedy 48 0.02 25600.0 368.43013301309975 
+
+../instances/i-1.txt epsilon-greedy 49 0.02 25600.0 159.93560738023584 
+
+../instances/i-1.txt epsilon-greedy 0 0.02 102400.0 1023.7880864013111 
+
+../instances/i-1.txt epsilon-greedy 1 0.02 102400.0 1122.638059656006 
+
+../instances/i-1.txt epsilon-greedy 2 0.02 102400.0 920.00108878957 
+
+../instances/i-1.txt epsilon-greedy 3 0.02 102400.0 747.0510798106815 
+
+../instances/i-1.txt epsilon-greedy 4 0.02 102400.0 1133.6894684587905 
+
+../instances/i-1.txt epsilon-greedy 5 0.02 102400.0 841.6820549859182 
+
+../instances/i-1.txt epsilon-greedy 6 0.02 102400.0 811.8756456354384 
+
+../instances/i-1.txt epsilon-greedy 7 0.02 102400.0 1027.797935932686 
+
+../instances/i-1.txt epsilon-greedy 8 0.02 102400.0 543.0136343334214 
+
+../instances/i-1.txt epsilon-greedy 9 0.02 102400.0 903.4405972993655 
+
+../instances/i-1.txt epsilon-greedy 10 0.02 102400.0 752.8150824089647 
+
+../instances/i-1.txt epsilon-greedy 11 0.02 102400.0 1147.732390798408 
+
+../instances/i-1.txt epsilon-greedy 12 0.02 102400.0 944.7471872492674 
+
+../instances/i-1.txt epsilon-greedy 13 0.02 102400.0 540.6220095975359 
+
+../instances/i-1.txt epsilon-greedy 14 0.02 102400.0 735.9145293956778 
+
+../instances/i-1.txt epsilon-greedy 15 0.02 102400.0 659.1597276994124 
+
+../instances/i-1.txt epsilon-greedy 16 0.02 102400.0 1017.3064184881599 
+
+../instances/i-1.txt epsilon-greedy 17 0.02 102400.0 642.1663004812364 
+
+../instances/i-1.txt epsilon-greedy 18 0.02 102400.0 729.8119339398261 
+
+../instances/i-1.txt epsilon-greedy 19 0.02 102400.0 905.2451985181743 
+
+../instances/i-1.txt epsilon-greedy 20 0.02 102400.0 1147.007812886276 
+
+../instances/i-1.txt epsilon-greedy 21 0.02 102400.0 869.9788817218574 
+
+../instances/i-1.txt epsilon-greedy 22 0.02 102400.0 1058.2441075536642 
+
+../instances/i-1.txt epsilon-greedy 23 0.02 102400.0 714.6377640861084 
+
+../instances/i-1.txt epsilon-greedy 24 0.02 102400.0 1198.6074103568926 
+
+../instances/i-1.txt epsilon-greedy 25 0.02 102400.0 991.1175973026556 
+
+../instances/i-1.txt epsilon-greedy 26 0.02 102400.0 1015.5567371272682 
+
+../instances/i-1.txt epsilon-greedy 27 0.02 102400.0 1195.8573257001383 
+
+../instances/i-1.txt epsilon-greedy 28 0.02 102400.0 865.5636683507822 
+
+../instances/i-1.txt epsilon-greedy 29 0.02 102400.0 1020.5368530853378 
+
+../instances/i-1.txt epsilon-greedy 30 0.02 102400.0 714.6710370647758 
+
+../instances/i-1.txt epsilon-greedy 31 0.02 102400.0 757.4147714270404 
+
+../instances/i-1.txt epsilon-greedy 32 0.02 102400.0 703.9450834040794 
+
+../instances/i-1.txt epsilon-greedy 33 0.02 102400.0 799.5047830068991 
+
+../instances/i-1.txt epsilon-greedy 34 0.02 102400.0 888.0737899349351 
+
+../instances/i-1.txt epsilon-greedy 35 0.02 102400.0 918.77710265546 
+
+../instances/i-1.txt epsilon-greedy 36 0.02 102400.0 766.2769690739437 
+
+../instances/i-1.txt epsilon-greedy 37 0.02 102400.0 641.3748874192445 
+
+../instances/i-1.txt epsilon-greedy 38 0.02 102400.0 805.0491147866421 
+
+../instances/i-1.txt epsilon-greedy 39 0.02 102400.0 981.2644963007423 
+
+../instances/i-1.txt epsilon-greedy 40 0.02 102400.0 1149.0685229471253 
+
+../instances/i-1.txt epsilon-greedy 41 0.02 102400.0 712.5459507177815 
+
+../instances/i-1.txt epsilon-greedy 42 0.02 102400.0 862.1972982870958 
+
+../instances/i-1.txt epsilon-greedy 43 0.02 102400.0 837.095135299025 
+
+../instances/i-1.txt epsilon-greedy 44 0.02 102400.0 833.7945008974449 
+
+../instances/i-1.txt epsilon-greedy 45 0.02 102400.0 845.3320294049239 
+
+../instances/i-1.txt epsilon-greedy 46 0.02 102400.0 512.016532448415 
+
+../instances/i-1.txt epsilon-greedy 47 0.02 102400.0 917.967484533741 
+
+../instances/i-1.txt epsilon-greedy 48 0.02 102400.0 1168.6741614744403 
+
+../instances/i-1.txt epsilon-greedy 49 0.02 102400.0 685.4242683820347 
+
+../instances/i-1.txt ucb 0 0.02 100.0 1.2968302929446263 
+
+../instances/i-1.txt ucb 1 0.02 100.0 2.463222798720562 
+
+../instances/i-1.txt ucb 2 0.02 100.0 -4.06657142999974 
+
+../instances/i-1.txt ucb 3 0.02 100.0 -2.723434923173704 
+
+../instances/i-1.txt ucb 4 0.02 100.0 5.641688332373131 
+
+../instances/i-1.txt ucb 5 0.02 100.0 5.061044307935145 
+
+../instances/i-1.txt ucb 6 0.02 100.0 6.034435958012421 
+
+../instances/i-1.txt ucb 7 0.02 100.0 3.912152304750303 
+
+../instances/i-1.txt ucb 8 0.02 100.0 4.972116363032004 
+
+../instances/i-1.txt ucb 9 0.02 100.0 5.768928679998153 
+
+../instances/i-1.txt ucb 10 0.02 100.0 2.3989863914838763 
+
+../instances/i-1.txt ucb 11 0.02 100.0 0.4281338721076825 
+
+../instances/i-1.txt ucb 12 0.02 100.0 2.390603162918744 
+
+../instances/i-1.txt ucb 13 0.02 100.0 8.44486963949515 
+
+../instances/i-1.txt ucb 14 0.02 100.0 3.197206579049677 
+
+../instances/i-1.txt ucb 15 0.02 100.0 0.39465096272939604 
+
+../instances/i-1.txt ucb 16 0.02 100.0 -5.595536138219205 
+
+../instances/i-1.txt ucb 17 0.02 100.0 -0.093607015744542 
+
+../instances/i-1.txt ucb 18 0.02 100.0 12.355343282695635 
+
+../instances/i-1.txt ucb 19 0.02 100.0 -0.5020567078712964 
+
+../instances/i-1.txt ucb 20 0.02 100.0 8.010843671831632 
+
+../instances/i-1.txt ucb 21 0.02 100.0 8.24694888307667 
+
+../instances/i-1.txt ucb 22 0.02 100.0 9.993409632287461 
+
+../instances/i-1.txt ucb 23 0.02 100.0 10.252007425481532 
+
+../instances/i-1.txt ucb 24 0.02 100.0 20.549391590100637 
+
+../instances/i-1.txt ucb 25 0.02 100.0 -3.452018182390664 
+
+../instances/i-1.txt ucb 26 0.02 100.0 3.4400992807294415 
+
+../instances/i-1.txt ucb 27 0.02 100.0 19.23864612927056 
+
+../instances/i-1.txt ucb 28 0.02 100.0 11.727926905616158 
+
+../instances/i-1.txt ucb 29 0.02 100.0 7.380452552024569 
+
+../instances/i-1.txt ucb 30 0.02 100.0 7.57259843364252 
+
+../instances/i-1.txt ucb 31 0.02 100.0 4.695561542062623 
+
+../instances/i-1.txt ucb 32 0.02 100.0 1.781807799430637 
+
+../instances/i-1.txt ucb 33 0.02 100.0 7.736233526284206 
+
+../instances/i-1.txt ucb 34 0.02 100.0 10.290021968858305 
+
+../instances/i-1.txt ucb 35 0.02 100.0 8.061794083558146 
+
+../instances/i-1.txt ucb 36 0.02 100.0 4.267242340737895 
+
+../instances/i-1.txt ucb 37 0.02 100.0 2.718989272571768 
+
+../instances/i-1.txt ucb 38 0.02 100.0 2.9533432033853675 
+
+../instances/i-1.txt ucb 39 0.02 100.0 17.535307227018492 
+
+../instances/i-1.txt ucb 40 0.02 100.0 6.686386816395313 
+
+../instances/i-1.txt ucb 41 0.02 100.0 -2.3242778361167207 
+
+../instances/i-1.txt ucb 42 0.02 100.0 9.15477917981331 
+
+../instances/i-1.txt ucb 43 0.02 100.0 7.0353181358393595 
+
+../instances/i-1.txt ucb 44 0.02 100.0 4.448288643144208 
+
+../instances/i-1.txt ucb 45 0.02 100.0 3.5090295164540137 
+
+../instances/i-1.txt ucb 46 0.02 100.0 4.755756395304455 
+
+../instances/i-1.txt ucb 47 0.02 100.0 4.772880157727159 
+
+../instances/i-1.txt ucb 48 0.02 100.0 0.8085810898878116 
+
+../instances/i-1.txt ucb 49 0.02 100.0 14.644138285170994 
+
+../instances/i-1.txt ucb 0 0.02 400.0 -0.0805352296572387 
+
+../instances/i-1.txt ucb 1 0.02 400.0 16.933429626814725 
+
+../instances/i-1.txt ucb 2 0.02 400.0 -9.471747524308794 
+
+../instances/i-1.txt ucb 3 0.02 400.0 -4.468936840989454 
+
+../instances/i-1.txt ucb 4 0.02 400.0 15.935070921517799 
+
+../instances/i-1.txt ucb 5 0.02 400.0 20.72283761818375 
+
+../instances/i-1.txt ucb 6 0.02 400.0 13.192042940567584 
+
+../instances/i-1.txt ucb 7 0.02 400.0 16.468781458941514 
+
+../instances/i-1.txt ucb 8 0.02 400.0 8.076649478580352 
+
+../instances/i-1.txt ucb 9 0.02 400.0 11.731654150428438 
+
+../instances/i-1.txt ucb 10 0.02 400.0 11.2363702538144 
+
+../instances/i-1.txt ucb 11 0.02 400.0 6.054774307886449 
+
+../instances/i-1.txt ucb 12 0.02 400.0 5.676706115473376 
+
+../instances/i-1.txt ucb 13 0.02 400.0 10.394895775944974 
+
+../instances/i-1.txt ucb 14 0.02 400.0 4.727577993549426 
+
+../instances/i-1.txt ucb 15 0.02 400.0 7.09966367131912 
+
+../instances/i-1.txt ucb 16 0.02 400.0 -3.1670955104463467 
+
+../instances/i-1.txt ucb 17 0.02 400.0 9.571734517658763 
+
+../instances/i-1.txt ucb 18 0.02 400.0 17.044938201831645 
+
+../instances/i-1.txt ucb 19 0.02 400.0 4.24776862466511 
+
+../instances/i-1.txt ucb 20 0.02 400.0 17.401898068893043 
+
+../instances/i-1.txt ucb 21 0.02 400.0 17.318714148944988 
+
+../instances/i-1.txt ucb 22 0.02 400.0 22.164195518951196 
+
+../instances/i-1.txt ucb 23 0.02 400.0 12.58373924102852 
+
+../instances/i-1.txt ucb 24 0.02 400.0 38.97859968650526 
+
+../instances/i-1.txt ucb 25 0.02 400.0 -6.111408537616278 
+
+../instances/i-1.txt ucb 26 0.02 400.0 18.029684929052877 
+
+../instances/i-1.txt ucb 27 0.02 400.0 48.10456603753795 
+
+../instances/i-1.txt ucb 28 0.02 400.0 19.32647026895984 
+
+../instances/i-1.txt ucb 29 0.02 400.0 17.671701638085946 
+
+../instances/i-1.txt ucb 30 0.02 400.0 13.48102068392325 
+
+../instances/i-1.txt ucb 31 0.02 400.0 7.851676123553999 
+
+../instances/i-1.txt ucb 32 0.02 400.0 -1.0418058331744167 
+
+../instances/i-1.txt ucb 33 0.02 400.0 20.36031496296954 
+
+../instances/i-1.txt ucb 34 0.02 400.0 34.83660953135948 
+
+../instances/i-1.txt ucb 35 0.02 400.0 23.776858521449853 
+
+../instances/i-1.txt ucb 36 0.02 400.0 10.295184492487953 
+
+../instances/i-1.txt ucb 37 0.02 400.0 2.9382267873817525 
+
+../instances/i-1.txt ucb 38 0.02 400.0 4.8769481024956125 
+
+../instances/i-1.txt ucb 39 0.02 400.0 34.33682374519119 
+
+../instances/i-1.txt ucb 40 0.02 400.0 8.636797782998778 
+
+../instances/i-1.txt ucb 41 0.02 400.0 -1.6449229702773174 
+
+../instances/i-1.txt ucb 42 0.02 400.0 12.732549064659779 
+
+../instances/i-1.txt ucb 43 0.02 400.0 16.978194704453355 
+
+../instances/i-1.txt ucb 44 0.02 400.0 4.597567848314585 
+
+../instances/i-1.txt ucb 45 0.02 400.0 18.746349428461063 
+
+../instances/i-1.txt ucb 46 0.02 400.0 1.1968269872419088 
+
+../instances/i-1.txt ucb 47 0.02 400.0 17.52609154994687 
+
+../instances/i-1.txt ucb 48 0.02 400.0 9.83090403844644 
+
+../instances/i-1.txt ucb 49 0.02 400.0 34.62734842059604 
+
+../instances/i-1.txt ucb 0 0.02 1600.0 6.8823617635179275 
+
+../instances/i-1.txt ucb 1 0.02 1600.0 32.301988323466226 
+
+../instances/i-1.txt ucb 2 0.02 1600.0 -4.207802963012343 
+
+../instances/i-1.txt ucb 3 0.02 1600.0 -14.118809386492401 
+
+../instances/i-1.txt ucb 4 0.02 1600.0 28.41653037854431 
+
+../instances/i-1.txt ucb 5 0.02 1600.0 26.64208935773966 
+
+../instances/i-1.txt ucb 6 0.02 1600.0 30.133973061860612 
+
+../instances/i-1.txt ucb 7 0.02 1600.0 44.566196850644005 
+
+../instances/i-1.txt ucb 8 0.02 1600.0 3.8668681341390956 
+
+../instances/i-1.txt ucb 9 0.02 1600.0 20.93112120872545 
+
+../instances/i-1.txt ucb 10 0.02 1600.0 30.12266420654975 
+
+../instances/i-1.txt ucb 11 0.02 1600.0 20.119446474578975 
+
+../instances/i-1.txt ucb 12 0.02 1600.0 29.443888491891762 
+
+../instances/i-1.txt ucb 13 0.02 1600.0 15.127530294735571 
+
+../instances/i-1.txt ucb 14 0.02 1600.0 9.639936461758793 
+
+../instances/i-1.txt ucb 15 0.02 1600.0 13.690859458689827 
+
+../instances/i-1.txt ucb 16 0.02 1600.0 -0.4023422059457842 
+
+../instances/i-1.txt ucb 17 0.02 1600.0 0.6609393973193676 
+
+../instances/i-1.txt ucb 18 0.02 1600.0 16.830598351057798 
+
+../instances/i-1.txt ucb 19 0.02 1600.0 -6.589384637782421 
+
+../instances/i-1.txt ucb 20 0.02 1600.0 23.214701907212394 
+
+../instances/i-1.txt ucb 21 0.02 1600.0 50.01428304741669 
+
+../instances/i-1.txt ucb 22 0.02 1600.0 27.468932128031756 
+
+../instances/i-1.txt ucb 23 0.02 1600.0 4.8636496024822256 
+
+../instances/i-1.txt ucb 24 0.02 1600.0 64.85478602751917 
+
+../instances/i-1.txt ucb 25 0.02 1600.0 10.176416707708343 
+
+../instances/i-1.txt ucb 26 0.02 1600.0 42.880995808655115 
+
+../instances/i-1.txt ucb 27 0.02 1600.0 70.17687543616417 
+
+../instances/i-1.txt ucb 28 0.02 1600.0 44.12484768846827 
+
+../instances/i-1.txt ucb 29 0.02 1600.0 21.1634120157217 
+
+../instances/i-1.txt ucb 30 0.02 1600.0 35.241810402314755 
+
+../instances/i-1.txt ucb 31 0.02 1600.0 17.387466590531197 
+
+../instances/i-1.txt ucb 32 0.02 1600.0 8.77682958263411 
+
+../instances/i-1.txt ucb 33 0.02 1600.0 59.57563694938393 
+
+../instances/i-1.txt ucb 34 0.02 1600.0 52.58945723459857 
+
+../instances/i-1.txt ucb 35 0.02 1600.0 49.29849386119349 
+
+../instances/i-1.txt ucb 36 0.02 1600.0 -4.324748020274105 
+
+../instances/i-1.txt ucb 37 0.02 1600.0 -4.0878265120684345 
+
+../instances/i-1.txt ucb 38 0.02 1600.0 3.605678085985957 
+
+../instances/i-1.txt ucb 39 0.02 1600.0 50.784829160179775 
+
+../instances/i-1.txt ucb 40 0.02 1600.0 16.57365942210925 
+
+../instances/i-1.txt ucb 41 0.02 1600.0 2.2361515462473553 
+
+../instances/i-1.txt ucb 42 0.02 1600.0 23.072178595856293 
+
+../instances/i-1.txt ucb 43 0.02 1600.0 36.31914885051189 
+
+../instances/i-1.txt ucb 44 0.02 1600.0 12.860961223026365 
+
+../instances/i-1.txt ucb 45 0.02 1600.0 26.16620776296299 
+
+../instances/i-1.txt ucb 46 0.02 1600.0 -6.185938600290568 
+
+../instances/i-1.txt ucb 47 0.02 1600.0 38.91475710518709 
+
+../instances/i-1.txt ucb 48 0.02 1600.0 17.111146579723464 
+
+../instances/i-1.txt ucb 49 0.02 1600.0 50.98621620380042 
+
+../instances/i-1.txt ucb 0 0.02 6400.0 34.31517003416386 
+
+../instances/i-1.txt ucb 1 0.02 6400.0 48.68791709267939 
+
+../instances/i-1.txt ucb 2 0.02 6400.0 -12.05146881783787 
+
+../instances/i-1.txt ucb 3 0.02 6400.0 -18.376249342887558 
+
+../instances/i-1.txt ucb 4 0.02 6400.0 59.80909941623786 
+
+../instances/i-1.txt ucb 5 0.02 6400.0 30.956833135515954 
+
+../instances/i-1.txt ucb 6 0.02 6400.0 105.04350785621098 
+
+../instances/i-1.txt ucb 7 0.02 6400.0 46.77211977002307 
+
+../instances/i-1.txt ucb 8 0.02 6400.0 -49.08999161344526 
+
+../instances/i-1.txt ucb 9 0.02 6400.0 16.1042543529455 
+
+../instances/i-1.txt ucb 10 0.02 6400.0 28.167251691380155 
+
+../instances/i-1.txt ucb 11 0.02 6400.0 36.65358410715591 
+
+../instances/i-1.txt ucb 12 0.02 6400.0 44.120442301948565 
+
+../instances/i-1.txt ucb 13 0.02 6400.0 30.294823099003914 
+
+../instances/i-1.txt ucb 14 0.02 6400.0 29.4526258755644 
+
+../instances/i-1.txt ucb 15 0.02 6400.0 27.21523273663047 
+
+../instances/i-1.txt ucb 16 0.02 6400.0 4.696013904011609 
+
+../instances/i-1.txt ucb 17 0.02 6400.0 -44.82856522148617 
+
+../instances/i-1.txt ucb 18 0.02 6400.0 -33.04309500876632 
+
+../instances/i-1.txt ucb 19 0.02 6400.0 -32.969406793815615 
+
+../instances/i-1.txt ucb 20 0.02 6400.0 38.87560792035107 
+
+../instances/i-1.txt ucb 21 0.02 6400.0 89.58480316329845 
+
+../instances/i-1.txt ucb 22 0.02 6400.0 31.59236417801121 
+
+../instances/i-1.txt ucb 23 0.02 6400.0 -8.774015760590517 
+
+../instances/i-1.txt ucb 24 0.02 6400.0 79.5274011608199 
+
+../instances/i-1.txt ucb 25 0.02 6400.0 77.57272512036444 
+
+../instances/i-1.txt ucb 26 0.02 6400.0 75.25312524883363 
+
+../instances/i-1.txt ucb 27 0.02 6400.0 106.03889633288581 
+
+../instances/i-1.txt ucb 28 0.02 6400.0 87.80216613329112 
+
+../instances/i-1.txt ucb 29 0.02 6400.0 38.49800864634157 
+
+../instances/i-1.txt ucb 30 0.02 6400.0 78.84404065605541 
+
+../instances/i-1.txt ucb 31 0.02 6400.0 40.52443885064477 
+
+../instances/i-1.txt ucb 32 0.02 6400.0 25.69403560656945 
+
+../instances/i-1.txt ucb 33 0.02 6400.0 52.20961251624379 
+
+../instances/i-1.txt ucb 34 0.02 6400.0 70.09334788346715 
+
+../instances/i-1.txt ucb 35 0.02 6400.0 49.24518450455731 
+
+../instances/i-1.txt ucb 36 0.02 6400.0 -33.02046216645503 
+
+../instances/i-1.txt ucb 37 0.02 6400.0 -2.1638493891379125 
+
+../instances/i-1.txt ucb 38 0.02 6400.0 -10.157476968006064 
+
+../instances/i-1.txt ucb 39 0.02 6400.0 65.23697414014434 
+
+../instances/i-1.txt ucb 40 0.02 6400.0 66.57386504873985 
+
+../instances/i-1.txt ucb 41 0.02 6400.0 15.441105522273496 
+
+../instances/i-1.txt ucb 42 0.02 6400.0 31.49873358362564 
+
+../instances/i-1.txt ucb 43 0.02 6400.0 80.63393780974496 
+
+../instances/i-1.txt ucb 44 0.02 6400.0 23.436882927995942 
+
+../instances/i-1.txt ucb 45 0.02 6400.0 49.09419014832119 
+
+../instances/i-1.txt ucb 46 0.02 6400.0 23.770008184096845 
+
+../instances/i-1.txt ucb 47 0.02 6400.0 87.55148677440374 
+
+../instances/i-1.txt ucb 48 0.02 6400.0 47.88808920750739 
+
+../instances/i-1.txt ucb 49 0.02 6400.0 42.5381061551508 
+
+../instances/i-1.txt ucb 0 0.02 25600.0 -6.430350890483614 
+
+../instances/i-1.txt ucb 1 0.02 25600.0 26.142968147826455 
+
+../instances/i-1.txt ucb 2 0.02 25600.0 -8.743376434474607 
+
+../instances/i-1.txt ucb 3 0.02 25600.0 -67.41226853605617 
+
+../instances/i-1.txt ucb 4 0.02 25600.0 117.4039925477842 
+
+../instances/i-1.txt ucb 5 0.02 25600.0 83.12173671620421 
+
+../instances/i-1.txt ucb 6 0.02 25600.0 165.51346101995978 
+
+../instances/i-1.txt ucb 7 0.02 25600.0 83.59737634276537 
+
+../instances/i-1.txt ucb 8 0.02 25600.0 -152.45383908884554 
+
+../instances/i-1.txt ucb 9 0.02 25600.0 42.356117564623446 
+
+../instances/i-1.txt ucb 10 0.02 25600.0 -18.777291609125015 
+
+../instances/i-1.txt ucb 11 0.02 25600.0 40.08868479871736 
+
+../instances/i-1.txt ucb 12 0.02 25600.0 59.18047766760478 
+
+../instances/i-1.txt ucb 13 0.02 25600.0 112.72384097226059 
+
+../instances/i-1.txt ucb 14 0.02 25600.0 54.42117094986934 
+
+../instances/i-1.txt ucb 15 0.02 25600.0 103.65654130227077 
+
+../instances/i-1.txt ucb 16 0.02 25600.0 58.81147476233197 
+
+../instances/i-1.txt ucb 17 0.02 25600.0 -162.49972778898197 
+
+../instances/i-1.txt ucb 18 0.02 25600.0 -126.59662432014642 
+
+../instances/i-1.txt ucb 19 0.02 25600.0 -62.09309887943283 
+
+../instances/i-1.txt ucb 20 0.02 25600.0 122.03389124513427 
+
+../instances/i-1.txt ucb 21 0.02 25600.0 186.6145211566875 
+
+../instances/i-1.txt ucb 22 0.02 25600.0 90.88164929810107 
+
+../instances/i-1.txt ucb 23 0.02 25600.0 4.363473094817837 
+
+../instances/i-1.txt ucb 24 0.02 25600.0 94.2721144532945 
+
+../instances/i-1.txt ucb 25 0.02 25600.0 155.4118919505977 
+
+../instances/i-1.txt ucb 26 0.02 25600.0 137.98678706467857 
+
+../instances/i-1.txt ucb 27 0.02 25600.0 183.00372500997807 
+
+../instances/i-1.txt ucb 28 0.02 25600.0 172.27505043467485 
+
+../instances/i-1.txt ucb 29 0.02 25600.0 131.5914161424676 
+
+../instances/i-1.txt ucb 30 0.02 25600.0 157.009572825952 
+
+../instances/i-1.txt ucb 31 0.02 25600.0 48.753419615951245 
+
+../instances/i-1.txt ucb 32 0.02 25600.0 95.81436086284135 
+
+../instances/i-1.txt ucb 33 0.02 25600.0 -49.65287287849097 
+
+../instances/i-1.txt ucb 34 0.02 25600.0 90.3313253260306 
+
+../instances/i-1.txt ucb 35 0.02 25600.0 20.314143422914814 
+
+../instances/i-1.txt ucb 36 0.02 25600.0 -20.29617515242117 
+
+../instances/i-1.txt ucb 37 0.02 25600.0 5.4690285104257566 
+
+../instances/i-1.txt ucb 38 0.02 25600.0 -55.37966095535841 
+
+../instances/i-1.txt ucb 39 0.02 25600.0 112.37677736771977 
+
+../instances/i-1.txt ucb 40 0.02 25600.0 126.34881777165401 
+
+../instances/i-1.txt ucb 41 0.02 25600.0 -12.00010861886821 
+
+../instances/i-1.txt ucb 42 0.02 25600.0 25.219497623277018 
+
+../instances/i-1.txt ucb 43 0.02 25600.0 156.7213828803892 
+
+../instances/i-1.txt ucb 44 0.02 25600.0 37.187548116649175 
+
+../instances/i-1.txt ucb 45 0.02 25600.0 77.10000726745551 
+
+../instances/i-1.txt ucb 46 0.02 25600.0 -40.38605756395341 
+
+../instances/i-1.txt ucb 47 0.02 25600.0 52.3878758861848 
+
+../instances/i-1.txt ucb 48 0.02 25600.0 123.71966383114811 
+
+../instances/i-1.txt ucb 49 0.02 25600.0 -40.937017146698416 
+
+../instances/i-1.txt ucb 0 0.02 102400.0 -53.650326040841264 
+
+../instances/i-1.txt ucb 1 0.02 102400.0 -5.699117912813831 
+
+../instances/i-1.txt ucb 2 0.02 102400.0 80.54026125398973 
+
+../instances/i-1.txt ucb 3 0.02 102400.0 20.11351848418981 
+
+../instances/i-1.txt ucb 4 0.02 102400.0 370.3347217785993 
+
+../instances/i-1.txt ucb 5 0.02 102400.0 163.05569313733713 
+
+../instances/i-1.txt ucb 6 0.02 102400.0 158.02613832093405 
+
+../instances/i-1.txt ucb 7 0.02 102400.0 193.34285302423328 
+
+../instances/i-1.txt ucb 8 0.02 102400.0 -409.7310983128962 
+
+../instances/i-1.txt ucb 9 0.02 102400.0 58.771460677809614 
+
+../instances/i-1.txt ucb 10 0.02 102400.0 -66.6618945294909 
+
+../instances/i-1.txt ucb 11 0.02 102400.0 88.42023396914749 
+
+../instances/i-1.txt ucb 12 0.02 102400.0 32.933737354694394 
+
+../instances/i-1.txt ucb 13 0.02 102400.0 173.62525726913614 
+
+../instances/i-1.txt ucb 14 0.02 102400.0 133.16498706327295 
+
+../instances/i-1.txt ucb 15 0.02 102400.0 -25.94960746903355 
+
+../instances/i-1.txt ucb 16 0.02 102400.0 -15.916757321010323 
+
+../instances/i-1.txt ucb 17 0.02 102400.0 -366.31004872488523 
+
+../instances/i-1.txt ucb 18 0.02 102400.0 -314.64574214622365 
+
+../instances/i-1.txt ucb 19 0.02 102400.0 -111.6675948581534 
+
+../instances/i-1.txt ucb 20 0.02 102400.0 218.75178608430883 
+
+../instances/i-1.txt ucb 21 0.02 102400.0 338.6667473706383 
+
+../instances/i-1.txt ucb 22 0.02 102400.0 206.4947660762359 
+
+../instances/i-1.txt ucb 23 0.02 102400.0 -27.306868377019782 
+
+../instances/i-1.txt ucb 24 0.02 102400.0 287.7756972219106 
+
+../instances/i-1.txt ucb 25 0.02 102400.0 300.30115562826427 
+
+../instances/i-1.txt ucb 26 0.02 102400.0 323.0932984112517 
+
+../instances/i-1.txt ucb 27 0.02 102400.0 356.15680676812576 
+
+../instances/i-1.txt ucb 28 0.02 102400.0 103.44621549314934 
+
+../instances/i-1.txt ucb 29 0.02 102400.0 294.88559644815604 
+
+../instances/i-1.txt ucb 30 0.02 102400.0 251.7225313494167 
+
+../instances/i-1.txt ucb 31 0.02 102400.0 29.78563131260252 
+
+../instances/i-1.txt ucb 32 0.02 102400.0 86.82044228650885 
+
+../instances/i-1.txt ucb 33 0.02 102400.0 -179.12424382557018 
+
+../instances/i-1.txt ucb 34 0.02 102400.0 156.62440669336593 
+
+../instances/i-1.txt ucb 35 0.02 102400.0 -14.439363991940915 
+
+../instances/i-1.txt ucb 36 0.02 102400.0 -68.15100994886836 
+
+../instances/i-1.txt ucb 37 0.02 102400.0 -55.75009036851629 
+
+../instances/i-1.txt ucb 38 0.02 102400.0 -50.06957760979963 
+
+../instances/i-1.txt ucb 39 0.02 102400.0 120.8718202151057 
+
+../instances/i-1.txt ucb 40 0.02 102400.0 248.05740957142504 
+
+../instances/i-1.txt ucb 41 0.02 102400.0 -54.81268140705259 
+
+../instances/i-1.txt ucb 42 0.02 102400.0 -43.21287917697392 
+
+../instances/i-1.txt ucb 43 0.02 102400.0 225.6470094048827 
+
+../instances/i-1.txt ucb 44 0.02 102400.0 26.57913245752994 
+
+../instances/i-1.txt ucb 45 0.02 102400.0 183.44924626319863 
+
+../instances/i-1.txt ucb 46 0.02 102400.0 -256.64313250281526 
+
+../instances/i-1.txt ucb 47 0.02 102400.0 -84.51579106233791 
+
+../instances/i-1.txt ucb 48 0.02 102400.0 354.0885072155923 
+
+../instances/i-1.txt ucb 49 0.02 102400.0 -154.77027997326496 
+
+../instances/i-1.txt kl-ucb 0 0.02 100.0 -3.213168181880396 
+
+../instances/i-1.txt kl-ucb 1 0.02 100.0 -0.7229284132450572 
+
+../instances/i-1.txt kl-ucb 2 0.02 100.0 -8.645102605905155 
+
+../instances/i-1.txt kl-ucb 3 0.02 100.0 -6.2088405026088545 
+
+../instances/i-1.txt kl-ucb 4 0.02 100.0 7.869330957382055 
+
+../instances/i-1.txt kl-ucb 5 0.02 100.0 3.925387488396492 
+
+../instances/i-1.txt kl-ucb 6 0.02 100.0 7.504983560711661 
+
+../instances/i-1.txt kl-ucb 7 0.02 100.0 1.498244863701558 
+
+../instances/i-1.txt kl-ucb 8 0.02 100.0 -1.2867784437918357 
+
+../instances/i-1.txt kl-ucb 9 0.02 100.0 3.104049073733571 
+
+../instances/i-1.txt kl-ucb 10 0.02 100.0 0.708333478768283 
+
+../instances/i-1.txt kl-ucb 11 0.02 100.0 2.1703477432342804 
+
+../instances/i-1.txt kl-ucb 12 0.02 100.0 2.3539998433798495 
+
+../instances/i-1.txt kl-ucb 13 0.02 100.0 6.4001283055436256 
+
+../instances/i-1.txt kl-ucb 14 0.02 100.0 -0.3758405333537287 
+
+../instances/i-1.txt kl-ucb 15 0.02 100.0 -7.015761717145775 
+
+../instances/i-1.txt kl-ucb 16 0.02 100.0 -8.887044687437916 
+
+../instances/i-1.txt kl-ucb 17 0.02 100.0 -4.833506303072501 
+
+../instances/i-1.txt kl-ucb 18 0.02 100.0 4.962655291835061 
+
+../instances/i-1.txt kl-ucb 19 0.02 100.0 -2.2836946683576462 
+
+../instances/i-1.txt kl-ucb 20 0.02 100.0 2.8956908381610096 
+
+../instances/i-1.txt kl-ucb 21 0.02 100.0 0.8748976820616675 
+
+../instances/i-1.txt kl-ucb 22 0.02 100.0 6.733001090381078 
+
+../instances/i-1.txt kl-ucb 23 0.02 100.0 9.665472208999244 
+
+../instances/i-1.txt kl-ucb 24 0.02 100.0 17.69021100119321 
+
+../instances/i-1.txt kl-ucb 25 0.02 100.0 -5.20009091535449 
+
+../instances/i-1.txt kl-ucb 26 0.02 100.0 2.390700448479034 
+
+../instances/i-1.txt kl-ucb 27 0.02 100.0 31.664365926378107 
+
+../instances/i-1.txt kl-ucb 28 0.02 100.0 11.065900980144663 
+
+../instances/i-1.txt kl-ucb 29 0.02 100.0 8.394124498536181 
+
+../instances/i-1.txt kl-ucb 30 0.02 100.0 1.1065450621231592 
+
+../instances/i-1.txt kl-ucb 31 0.02 100.0 3.1844979523322623 
+
+../instances/i-1.txt kl-ucb 32 0.02 100.0 -0.7317657870429857 
+
+../instances/i-1.txt kl-ucb 33 0.02 100.0 3.480216497884158 
+
+../instances/i-1.txt kl-ucb 34 0.02 100.0 10.786616521497365 
+
+../instances/i-1.txt kl-ucb 35 0.02 100.0 2.439186961414838 
+
+../instances/i-1.txt kl-ucb 36 0.02 100.0 -0.20341868391519258 
+
+../instances/i-1.txt kl-ucb 37 0.02 100.0 1.4441580018614861 
+
+../instances/i-1.txt kl-ucb 38 0.02 100.0 0.6335441141153721 
+
+../instances/i-1.txt kl-ucb 39 0.02 100.0 14.171914389978681 
+
+../instances/i-1.txt kl-ucb 40 0.02 100.0 4.449053617664467 
+
+../instances/i-1.txt kl-ucb 41 0.02 100.0 -8.201427904708305 
+
+../instances/i-1.txt kl-ucb 42 0.02 100.0 -0.15399414573033188 
+
+../instances/i-1.txt kl-ucb 43 0.02 100.0 1.7759549521031546 
+
+../instances/i-1.txt kl-ucb 44 0.02 100.0 5.931664655027998 
+
+../instances/i-1.txt kl-ucb 45 0.02 100.0 -0.3655164776412504 
+
+../instances/i-1.txt kl-ucb 46 0.02 100.0 2.1584603201441754 
+
+../instances/i-1.txt kl-ucb 47 0.02 100.0 0.19888704429425275 
+
+../instances/i-1.txt kl-ucb 48 0.02 100.0 -7.263835971674093 
+
+../instances/i-1.txt kl-ucb 49 0.02 100.0 9.767479093930135 
+
+../instances/i-1.txt kl-ucb 0 0.02 400.0 -6.016090526660784 
+
+../instances/i-1.txt kl-ucb 1 0.02 400.0 8.404019485564364 
+
+../instances/i-1.txt kl-ucb 2 0.02 400.0 -18.873935311241016 
+
+../instances/i-1.txt kl-ucb 3 0.02 400.0 -11.755370269535787 
+
+../instances/i-1.txt kl-ucb 4 0.02 400.0 16.944010800428167 
+
+../instances/i-1.txt kl-ucb 5 0.02 400.0 16.53973706463283 
+
+../instances/i-1.txt kl-ucb 6 0.02 400.0 13.081807120783417 
+
+../instances/i-1.txt kl-ucb 7 0.02 400.0 3.7535077755209496 
+
+../instances/i-1.txt kl-ucb 8 0.02 400.0 -6.922379023948336 
+
+../instances/i-1.txt kl-ucb 9 0.02 400.0 3.111384249033027 
+
+../instances/i-1.txt kl-ucb 10 0.02 400.0 -2.781208486567886 
+
+../instances/i-1.txt kl-ucb 11 0.02 400.0 4.69475064589029 
+
+../instances/i-1.txt kl-ucb 12 0.02 400.0 4.041851631907152 
+
+../instances/i-1.txt kl-ucb 13 0.02 400.0 3.3430524105963166 
+
+../instances/i-1.txt kl-ucb 14 0.02 400.0 -9.211639542556696 
+
+../instances/i-1.txt kl-ucb 15 0.02 400.0 -10.212915686504513 
+
+../instances/i-1.txt kl-ucb 16 0.02 400.0 -14.023346887190339 
+
+../instances/i-1.txt kl-ucb 17 0.02 400.0 -1.5019490902664776 
+
+../instances/i-1.txt kl-ucb 18 0.02 400.0 6.802634191799897 
+
+../instances/i-1.txt kl-ucb 19 0.02 400.0 -2.5009742247171682 
+
+../instances/i-1.txt kl-ucb 20 0.02 400.0 10.502392589441035 
+
+../instances/i-1.txt kl-ucb 21 0.02 400.0 5.913497482651512 
+
+../instances/i-1.txt kl-ucb 22 0.02 400.0 9.434369207224798 
+
+../instances/i-1.txt kl-ucb 23 0.02 400.0 12.132183306913534 
+
+../instances/i-1.txt kl-ucb 24 0.02 400.0 28.037200953656114 
+
+../instances/i-1.txt kl-ucb 25 0.02 400.0 -12.05013834429625 
+
+../instances/i-1.txt kl-ucb 26 0.02 400.0 10.009046265859462 
+
+../instances/i-1.txt kl-ucb 27 0.02 400.0 55.27536394499142 
+
+../instances/i-1.txt kl-ucb 28 0.02 400.0 20.819344391606133 
+
+../instances/i-1.txt kl-ucb 29 0.02 400.0 13.288413689110342 
+
+../instances/i-1.txt kl-ucb 30 0.02 400.0 3.579679121850552 
+
+../instances/i-1.txt kl-ucb 31 0.02 400.0 4.8445908680107905 
+
+../instances/i-1.txt kl-ucb 32 0.02 400.0 -11.229015653976887 
+
+../instances/i-1.txt kl-ucb 33 0.02 400.0 11.613054066051209 
+
+../instances/i-1.txt kl-ucb 34 0.02 400.0 31.70173483295756 
+
+../instances/i-1.txt kl-ucb 35 0.02 400.0 12.73219961336354 
+
+../instances/i-1.txt kl-ucb 36 0.02 400.0 0.24135246350588946 
+
+../instances/i-1.txt kl-ucb 37 0.02 400.0 -1.7627109630961049 
+
+../instances/i-1.txt kl-ucb 38 0.02 400.0 -6.166343342786993 
+
+../instances/i-1.txt kl-ucb 39 0.02 400.0 28.057659323188997 
+
+../instances/i-1.txt kl-ucb 40 0.02 400.0 2.8638480772090458 
+
+../instances/i-1.txt kl-ucb 41 0.02 400.0 -18.124699077718855 
+
+../instances/i-1.txt kl-ucb 42 0.02 400.0 2.6081605798281453 
+
+../instances/i-1.txt kl-ucb 43 0.02 400.0 7.983354624516761 
+
+../instances/i-1.txt kl-ucb 44 0.02 400.0 5.781491430379444 
+
+../instances/i-1.txt kl-ucb 45 0.02 400.0 6.266791277626995 
+
+../instances/i-1.txt kl-ucb 46 0.02 400.0 -7.76045351740763 
+
+../instances/i-1.txt kl-ucb 47 0.02 400.0 6.624416204350711 
+
+../instances/i-1.txt kl-ucb 48 0.02 400.0 -9.151871628932577 
+
+../instances/i-1.txt kl-ucb 49 0.02 400.0 16.758031393074926 
+
+../instances/i-1.txt kl-ucb 0 0.02 1600.0 6.156854411570752 
+
+../instances/i-1.txt kl-ucb 1 0.02 1600.0 14.585680556906889 
+
+../instances/i-1.txt kl-ucb 2 0.02 1600.0 -24.89180034025072 
+
+../instances/i-1.txt kl-ucb 3 0.02 1600.0 -26.04162921538092 
+
+../instances/i-1.txt kl-ucb 4 0.02 1600.0 29.54232733054401 
+
+../instances/i-1.txt kl-ucb 5 0.02 1600.0 20.101176586626718 
+
+../instances/i-1.txt kl-ucb 6 0.02 1600.0 31.698070159913772 
+
+../instances/i-1.txt kl-ucb 7 0.02 1600.0 13.579376333142644 
+
+../instances/i-1.txt kl-ucb 8 0.02 1600.0 -28.465578806267406 
+
+../instances/i-1.txt kl-ucb 9 0.02 1600.0 1.6532153989070482 
+
+../instances/i-1.txt kl-ucb 10 0.02 1600.0 1.975916388006297 
+
+../instances/i-1.txt kl-ucb 11 0.02 1600.0 14.742363639232993 
+
+../instances/i-1.txt kl-ucb 12 0.02 1600.0 30.69142286874942 
+
+../instances/i-1.txt kl-ucb 13 0.02 1600.0 1.1351749155284594 
+
+../instances/i-1.txt kl-ucb 14 0.02 1600.0 -10.043498428432974 
+
+../instances/i-1.txt kl-ucb 15 0.02 1600.0 -13.266839631779277 
+
+../instances/i-1.txt kl-ucb 16 0.02 1600.0 -23.826404843001445 
+
+../instances/i-1.txt kl-ucb 17 0.02 1600.0 -15.711491888481582 
+
+../instances/i-1.txt kl-ucb 18 0.02 1600.0 6.455137954015386 
+
+../instances/i-1.txt kl-ucb 19 0.02 1600.0 -23.197965839231696 
+
+../instances/i-1.txt kl-ucb 20 0.02 1600.0 18.801692726244912 
+
+../instances/i-1.txt kl-ucb 21 0.02 1600.0 21.872919805689587 
+
+../instances/i-1.txt kl-ucb 22 0.02 1600.0 0.5159198314380543 
+
+../instances/i-1.txt kl-ucb 23 0.02 1600.0 -0.9555604476269801 
+
+../instances/i-1.txt kl-ucb 24 0.02 1600.0 40.615008838441796 
+
+../instances/i-1.txt kl-ucb 25 0.02 1600.0 1.751355703165588 
+
+../instances/i-1.txt kl-ucb 26 0.02 1600.0 25.3340808393287 
+
+../instances/i-1.txt kl-ucb 27 0.02 1600.0 72.88124907775813 
+
+../instances/i-1.txt kl-ucb 28 0.02 1600.0 43.849712613672835 
+
+../instances/i-1.txt kl-ucb 29 0.02 1600.0 11.543762812487946 
+
+../instances/i-1.txt kl-ucb 30 0.02 1600.0 20.755206347895008 
+
+../instances/i-1.txt kl-ucb 31 0.02 1600.0 8.575880435324143 
+
+../instances/i-1.txt kl-ucb 32 0.02 1600.0 -9.891477469324535 
+
+../instances/i-1.txt kl-ucb 33 0.02 1600.0 46.02424915719739 
+
+../instances/i-1.txt kl-ucb 34 0.02 1600.0 41.68217335315632 
+
+../instances/i-1.txt kl-ucb 35 0.02 1600.0 18.59944206744718 
+
+../instances/i-1.txt kl-ucb 36 0.02 1600.0 -20.38880942139248 
+
+../instances/i-1.txt kl-ucb 37 0.02 1600.0 -13.864687028452677 
+
+../instances/i-1.txt kl-ucb 38 0.02 1600.0 -12.510589350611886 
+
+../instances/i-1.txt kl-ucb 39 0.02 1600.0 52.83104651669634 
+
+../instances/i-1.txt kl-ucb 40 0.02 1600.0 15.994320254951337 
+
+../instances/i-1.txt kl-ucb 41 0.02 1600.0 -27.21651435861551 
+
+../instances/i-1.txt kl-ucb 42 0.02 1600.0 14.600573530768944 
+
+../instances/i-1.txt kl-ucb 43 0.02 1600.0 21.511910468814676 
+
+../instances/i-1.txt kl-ucb 44 0.02 1600.0 12.636106695155117 
+
+../instances/i-1.txt kl-ucb 45 0.02 1600.0 7.729869836834047 
+
+../instances/i-1.txt kl-ucb 46 0.02 1600.0 -16.052500981235536 
+
+../instances/i-1.txt kl-ucb 47 0.02 1600.0 25.72445054407173 
+
+../instances/i-1.txt kl-ucb 48 0.02 1600.0 -12.62339810888223 
+
+../instances/i-1.txt kl-ucb 49 0.02 1600.0 27.284978082060658 
+
+../instances/i-1.txt kl-ucb 0 0.02 6400.0 34.76051088127529 
+
+../instances/i-1.txt kl-ucb 1 0.02 6400.0 24.832900440467174 
+
+../instances/i-1.txt kl-ucb 2 0.02 6400.0 -35.94409583063096 
+
+../instances/i-1.txt kl-ucb 3 0.02 6400.0 -37.19701470221372 
+
+../instances/i-1.txt kl-ucb 4 0.02 6400.0 61.35653372610521 
+
+../instances/i-1.txt kl-ucb 5 0.02 6400.0 15.493867833109867 
+
+../instances/i-1.txt kl-ucb 6 0.02 6400.0 97.12813613307083 
+
+../instances/i-1.txt kl-ucb 7 0.02 6400.0 5.041081308780975 
+
+../instances/i-1.txt kl-ucb 8 0.02 6400.0 -90.63327376347243 
+
+../instances/i-1.txt kl-ucb 9 0.02 6400.0 -14.700008734910947 
+
+../instances/i-1.txt kl-ucb 10 0.02 6400.0 -10.642315722206519 
+
+../instances/i-1.txt kl-ucb 11 0.02 6400.0 35.21568814534768 
+
+../instances/i-1.txt kl-ucb 12 0.02 6400.0 38.284169141581096 
+
+../instances/i-1.txt kl-ucb 13 0.02 6400.0 4.200664520591087 
+
+../instances/i-1.txt kl-ucb 14 0.02 6400.0 1.7250584859005955 
+
+../instances/i-1.txt kl-ucb 15 0.02 6400.0 -12.218396110285646 
+
+../instances/i-1.txt kl-ucb 16 0.02 6400.0 -31.315512997208284 
+
+../instances/i-1.txt kl-ucb 17 0.02 6400.0 -77.76465812884024 
+
+../instances/i-1.txt kl-ucb 18 0.02 6400.0 -50.123474836996564 
+
+../instances/i-1.txt kl-ucb 19 0.02 6400.0 -57.46368018473451 
+
+../instances/i-1.txt kl-ucb 20 0.02 6400.0 34.07496348308559 
+
+../instances/i-1.txt kl-ucb 21 0.02 6400.0 43.28852860580053 
+
+../instances/i-1.txt kl-ucb 22 0.02 6400.0 -19.80967462161515 
+
+../instances/i-1.txt kl-ucb 23 0.02 6400.0 -18.653330933905487 
+
+../instances/i-1.txt kl-ucb 24 0.02 6400.0 49.6641727179134 
+
+../instances/i-1.txt kl-ucb 25 0.02 6400.0 49.02422690908615 
+
+../instances/i-1.txt kl-ucb 26 0.02 6400.0 42.7625726334401 
+
+../instances/i-1.txt kl-ucb 27 0.02 6400.0 104.83551599965723 
+
+../instances/i-1.txt kl-ucb 28 0.02 6400.0 83.03765007430292 
+
+../instances/i-1.txt kl-ucb 29 0.02 6400.0 33.12401654068001 
+
+../instances/i-1.txt kl-ucb 30 0.02 6400.0 57.938482634979906 
+
+../instances/i-1.txt kl-ucb 31 0.02 6400.0 29.63702033638092 
+
+../instances/i-1.txt kl-ucb 32 0.02 6400.0 4.07263874999206 
+
+../instances/i-1.txt kl-ucb 33 0.02 6400.0 33.51722715761991 
+
+../instances/i-1.txt kl-ucb 34 0.02 6400.0 45.95326705783663 
+
+../instances/i-1.txt kl-ucb 35 0.02 6400.0 0.6997691932641403 
+
+../instances/i-1.txt kl-ucb 36 0.02 6400.0 -59.417351629509305 
+
+../instances/i-1.txt kl-ucb 37 0.02 6400.0 -18.91014130236085 
+
+../instances/i-1.txt kl-ucb 38 0.02 6400.0 -33.1455390612403 
+
+../instances/i-1.txt kl-ucb 39 0.02 6400.0 78.94393657451408 
+
+../instances/i-1.txt kl-ucb 40 0.02 6400.0 61.35055596930305 
+
+../instances/i-1.txt kl-ucb 41 0.02 6400.0 -24.9802693649622 
+
+../instances/i-1.txt kl-ucb 42 0.02 6400.0 13.462717413269322 
+
+../instances/i-1.txt kl-ucb 43 0.02 6400.0 59.531142361619246 
+
+../instances/i-1.txt kl-ucb 44 0.02 6400.0 25.513663875414434 
+
+../instances/i-1.txt kl-ucb 45 0.02 6400.0 18.30682677268379 
+
+../instances/i-1.txt kl-ucb 46 0.02 6400.0 13.167077708906357 
+
+../instances/i-1.txt kl-ucb 47 0.02 6400.0 72.58008827521526 
+
+../instances/i-1.txt kl-ucb 48 0.02 6400.0 7.204564682573797 
+
+../instances/i-1.txt kl-ucb 49 0.02 6400.0 4.023049050415259 
+
+../instances/i-1.txt kl-ucb 0 0.02 25600.0 -7.556598095547564 
+
+../instances/i-1.txt kl-ucb 1 0.02 25600.0 -4.8330622943574495 
+
+../instances/i-1.txt kl-ucb 2 0.02 25600.0 -39.551671064803735 
+
+../instances/i-1.txt kl-ucb 3 0.02 25600.0 -91.67257358851812 
+
+../instances/i-1.txt kl-ucb 4 0.02 25600.0 111.07722288227141 
+
+../instances/i-1.txt kl-ucb 5 0.02 25600.0 64.3834412768917 
+
+../instances/i-1.txt kl-ucb 6 0.02 25600.0 153.83378588459743 
+
+../instances/i-1.txt kl-ucb 7 0.02 25600.0 30.300797689590993 
+
+../instances/i-1.txt kl-ucb 8 0.02 25600.0 -208.70576189625154 
+
+../instances/i-1.txt kl-ucb 9 0.02 25600.0 -3.00423447223838 
+
+../instances/i-1.txt kl-ucb 10 0.02 25600.0 -71.17917501905725 
+
+../instances/i-1.txt kl-ucb 11 0.02 25600.0 39.48052723223099 
+
+../instances/i-1.txt kl-ucb 12 0.02 25600.0 45.94823000626664 
+
+../instances/i-1.txt kl-ucb 13 0.02 25600.0 89.82088878170318 
+
+../instances/i-1.txt kl-ucb 14 0.02 25600.0 24.234531759270656 
+
+../instances/i-1.txt kl-ucb 15 0.02 25600.0 50.10738539724683 
+
+../instances/i-1.txt kl-ucb 16 0.02 25600.0 11.402755967055027 
+
+../instances/i-1.txt kl-ucb 17 0.02 25600.0 -210.27348032219192 
+
+../instances/i-1.txt kl-ucb 18 0.02 25600.0 -150.8443750029506 
+
+../instances/i-1.txt kl-ucb 19 0.02 25600.0 -104.25474572991476 
+
+../instances/i-1.txt kl-ucb 20 0.02 25600.0 115.47463623993859 
+
+../instances/i-1.txt kl-ucb 21 0.02 25600.0 121.36876779303678 
+
+../instances/i-1.txt kl-ucb 22 0.02 25600.0 21.545478188629893 
+
+../instances/i-1.txt kl-ucb 23 0.02 25600.0 -12.340162920030263 
+
+../instances/i-1.txt kl-ucb 24 0.02 25600.0 52.21823233459976 
+
+../instances/i-1.txt kl-ucb 25 0.02 25600.0 114.26244696535127 
+
+../instances/i-1.txt kl-ucb 26 0.02 25600.0 99.17528085673165 
+
+../instances/i-1.txt kl-ucb 27 0.02 25600.0 177.06326609852542 
+
+../instances/i-1.txt kl-ucb 28 0.02 25600.0 161.63901052393445 
+
+../instances/i-1.txt kl-ucb 29 0.02 25600.0 124.15524917792163 
+
+../instances/i-1.txt kl-ucb 30 0.02 25600.0 126.19319192255458 
+
+../instances/i-1.txt kl-ucb 31 0.02 25600.0 21.454815575808517 
+
+../instances/i-1.txt kl-ucb 32 0.02 25600.0 70.88911289591043 
+
+../instances/i-1.txt kl-ucb 33 0.02 25600.0 -73.46803004553672 
+
+../instances/i-1.txt kl-ucb 34 0.02 25600.0 50.07403303611754 
+
+../instances/i-1.txt kl-ucb 35 0.02 25600.0 -40.380765850232855 
+
+../instances/i-1.txt kl-ucb 36 0.02 25600.0 -54.315883526120594 
+
+../instances/i-1.txt kl-ucb 37 0.02 25600.0 -16.58800964955859 
+
+../instances/i-1.txt kl-ucb 38 0.02 25600.0 -79.17376949223163 
+
+../instances/i-1.txt kl-ucb 39 0.02 25600.0 127.66742333479954 
+
+../instances/i-1.txt kl-ucb 40 0.02 25600.0 126.99846088089473 
+
+../instances/i-1.txt kl-ucb 41 0.02 25600.0 -63.040749820509895 
+
+../instances/i-1.txt kl-ucb 42 0.02 25600.0 -2.743824626029356 
+
+../instances/i-1.txt kl-ucb 43 0.02 25600.0 136.37322504980784 
+
+../instances/i-1.txt kl-ucb 44 0.02 25600.0 43.2282175632701 
+
+../instances/i-1.txt kl-ucb 45 0.02 25600.0 30.598849999351643 
+
+../instances/i-1.txt kl-ucb 46 0.02 25600.0 -57.2673556152318 
+
+../instances/i-1.txt kl-ucb 47 0.02 25600.0 42.926521042578706 
+
+../instances/i-1.txt kl-ucb 48 0.02 25600.0 66.51706509119852 
+
+../instances/i-1.txt kl-ucb 49 0.02 25600.0 -92.2418954298664 
+
+../instances/i-1.txt kl-ucb 0 0.02 102400.0 -58.49175059587475 
+
+../instances/i-1.txt kl-ucb 1 0.02 102400.0 -41.283127888292476 
+
+../instances/i-1.txt kl-ucb 2 0.02 102400.0 48.494961408527935 
+
+../instances/i-1.txt kl-ucb 3 0.02 102400.0 -18.314000703315248 
+
+../instances/i-1.txt kl-ucb 4 0.02 102400.0 359.5948553697027 
+
+../instances/i-1.txt kl-ucb 5 0.02 102400.0 137.3809687693951 
+
+../instances/i-1.txt kl-ucb 6 0.02 102400.0 143.5943196431297 
+
+../instances/i-1.txt kl-ucb 7 0.02 102400.0 124.56219771154363 
+
+../instances/i-1.txt kl-ucb 8 0.02 102400.0 -483.37892885898526 
+
+../instances/i-1.txt kl-ucb 9 0.02 102400.0 9.53979993082497 
+
+../instances/i-1.txt kl-ucb 10 0.02 102400.0 -127.69053230149778 
+
+../instances/i-1.txt kl-ucb 11 0.02 102400.0 99.21413361082683 
+
+../instances/i-1.txt kl-ucb 12 0.02 102400.0 17.84191528839335 
+
+../instances/i-1.txt kl-ucb 13 0.02 102400.0 149.13136232634696 
+
+../instances/i-1.txt kl-ucb 14 0.02 102400.0 102.24220891317042 
+
+../instances/i-1.txt kl-ucb 15 0.02 102400.0 -90.82347462532562 
+
+../instances/i-1.txt kl-ucb 16 0.02 102400.0 -91.5797088964753 
+
+../instances/i-1.txt kl-ucb 17 0.02 102400.0 -423.8717580596432 
+
+../instances/i-1.txt kl-ucb 18 0.02 102400.0 -350.6047334498967 
+
+../instances/i-1.txt kl-ucb 19 0.02 102400.0 -159.55120977556913 
+
+../instances/i-1.txt kl-ucb 20 0.02 102400.0 217.2828712197344 
+
+../instances/i-1.txt kl-ucb 21 0.02 102400.0 258.925690776091 
+
+../instances/i-1.txt kl-ucb 22 0.02 102400.0 115.16817866571613 
+
+../instances/i-1.txt kl-ucb 23 0.02 102400.0 -53.101402515837485 
+
+../instances/i-1.txt kl-ucb 24 0.02 102400.0 238.93804144151906 
+
+../instances/i-1.txt kl-ucb 25 0.02 102400.0 249.46025818294467 
+
+../instances/i-1.txt kl-ucb 26 0.02 102400.0 264.02418883714483 
+
+../instances/i-1.txt kl-ucb 27 0.02 102400.0 337.1779230267258 
+
+../instances/i-1.txt kl-ucb 28 0.02 102400.0 92.47458500161703 
+
+../instances/i-1.txt kl-ucb 29 0.02 102400.0 283.02556937150104 
+
+../instances/i-1.txt kl-ucb 30 0.02 102400.0 214.43014866531712 
+
+../instances/i-1.txt kl-ucb 31 0.02 102400.0 -14.892988584701916 
+
+../instances/i-1.txt kl-ucb 32 0.02 102400.0 57.90071050599571 
+
+../instances/i-1.txt kl-ucb 33 0.02 102400.0 -216.71395071363273 
+
+../instances/i-1.txt kl-ucb 34 0.02 102400.0 101.98842266852958 
+
+../instances/i-1.txt kl-ucb 35 0.02 102400.0 -77.30482166434675 
+
+../instances/i-1.txt kl-ucb 36 0.02 102400.0 -114.90241641131139 
+
+../instances/i-1.txt kl-ucb 37 0.02 102400.0 -85.06533721418339 
+
+../instances/i-1.txt kl-ucb 38 0.02 102400.0 -86.9291558525265 
+
+../instances/i-1.txt kl-ucb 39 0.02 102400.0 142.79451496352056 
+
+../instances/i-1.txt kl-ucb 40 0.02 102400.0 250.13726749807338 
+
+../instances/i-1.txt kl-ucb 41 0.02 102400.0 -121.56420933175765 
+
+../instances/i-1.txt kl-ucb 42 0.02 102400.0 -74.99497119350943 
+
+../instances/i-1.txt kl-ucb 43 0.02 102400.0 202.9928239528419 
+
+../instances/i-1.txt kl-ucb 44 0.02 102400.0 44.12589113919642 
+
+../instances/i-1.txt kl-ucb 45 0.02 102400.0 122.67457347323494 
+
+../instances/i-1.txt kl-ucb 46 0.02 102400.0 -280.4714275998574 
+
+../instances/i-1.txt kl-ucb 47 0.02 102400.0 -94.29223147750909 
+
+../instances/i-1.txt kl-ucb 48 0.02 102400.0 291.34524027778485 
+
+../instances/i-1.txt kl-ucb 49 0.02 102400.0 -218.71292980573597 
+
+../instances/i-1.txt thompson-sampling 0 0.02 100.0 2.3079735087251176 
+
+../instances/i-1.txt thompson-sampling 1 0.02 100.0 7.697570064590452 
+
+../instances/i-1.txt thompson-sampling 2 0.02 100.0 -0.9359918999403991 
+
+../instances/i-1.txt thompson-sampling 3 0.02 100.0 4.300932913357641 
+
+../instances/i-1.txt thompson-sampling 4 0.02 100.0 2.6670154656693477 
+
+../instances/i-1.txt thompson-sampling 5 0.02 100.0 0.376343758902028 
+
+../instances/i-1.txt thompson-sampling 6 0.02 100.0 5.934812350214586 
+
+../instances/i-1.txt thompson-sampling 7 0.02 100.0 -5.518037523455684 
+
+../instances/i-1.txt thompson-sampling 8 0.02 100.0 4.286292829106435 
+
+../instances/i-1.txt thompson-sampling 9 0.02 100.0 3.212418131221981 
+
+../instances/i-1.txt thompson-sampling 10 0.02 100.0 4.16770747021313 
+
+../instances/i-1.txt thompson-sampling 11 0.02 100.0 6.6809088270047345 
+
+../instances/i-1.txt thompson-sampling 12 0.02 100.0 6.37616893219596 
+
+../instances/i-1.txt thompson-sampling 13 0.02 100.0 4.772196526481407 
+
+../instances/i-1.txt thompson-sampling 14 0.02 100.0 -6.01036500502318 
+
+../instances/i-1.txt thompson-sampling 15 0.02 100.0 -3.6930381734771855 
+
+../instances/i-1.txt thompson-sampling 16 0.02 100.0 -2.0028870048494314 
+
+../instances/i-1.txt thompson-sampling 17 0.02 100.0 -2.8842764462822172 
+
+../instances/i-1.txt thompson-sampling 18 0.02 100.0 -3.0525827025859287 
+
+../instances/i-1.txt thompson-sampling 19 0.02 100.0 5.966403370047187 
+
+../instances/i-1.txt thompson-sampling 20 0.02 100.0 2.004883284353453 
+
+../instances/i-1.txt thompson-sampling 21 0.02 100.0 8.851636575246655 
+
+../instances/i-1.txt thompson-sampling 22 0.02 100.0 2.4453543368743116 
+
+../instances/i-1.txt thompson-sampling 23 0.02 100.0 4.771522799051015 
+
+../instances/i-1.txt thompson-sampling 24 0.02 100.0 8.274342793106154 
+
+../instances/i-1.txt thompson-sampling 25 0.02 100.0 -4.405571599921364 
+
+../instances/i-1.txt thompson-sampling 26 0.02 100.0 3.719708990454063 
+
+../instances/i-1.txt thompson-sampling 27 0.02 100.0 2.196232725300266 
+
+../instances/i-1.txt thompson-sampling 28 0.02 100.0 11.633837878175516 
+
+../instances/i-1.txt thompson-sampling 29 0.02 100.0 -3.73440707011295 
+
+../instances/i-1.txt thompson-sampling 30 0.02 100.0 5.928634952505926 
+
+../instances/i-1.txt thompson-sampling 31 0.02 100.0 -0.45302304853697606 
+
+../instances/i-1.txt thompson-sampling 32 0.02 100.0 -6.361097455376847 
+
+../instances/i-1.txt thompson-sampling 33 0.02 100.0 4.423983047572902 
+
+../instances/i-1.txt thompson-sampling 34 0.02 100.0 2.4186788480137653 
+
+../instances/i-1.txt thompson-sampling 35 0.02 100.0 -1.4614118143806267 
+
+../instances/i-1.txt thompson-sampling 36 0.02 100.0 1.7661453432969494 
+
+../instances/i-1.txt thompson-sampling 37 0.02 100.0 -0.9730661639531585 
+
+../instances/i-1.txt thompson-sampling 38 0.02 100.0 -3.9926775070371376 
+
+../instances/i-1.txt thompson-sampling 39 0.02 100.0 -1.0829259300702216 
+
+../instances/i-1.txt thompson-sampling 40 0.02 100.0 4.512617062378162 
+
+../instances/i-1.txt thompson-sampling 41 0.02 100.0 5.240145872877812 
+
+../instances/i-1.txt thompson-sampling 42 0.02 100.0 0.038252021779569656 
+
+../instances/i-1.txt thompson-sampling 43 0.02 100.0 -2.7591571219916755 
+
+../instances/i-1.txt thompson-sampling 44 0.02 100.0 -5.337538099702227 
+
+../instances/i-1.txt thompson-sampling 45 0.02 100.0 20.99657826394424 
+
+../instances/i-1.txt thompson-sampling 46 0.02 100.0 1.2554147082770564 
+
+../instances/i-1.txt thompson-sampling 47 0.02 100.0 -1.0010978404649356 
+
+../instances/i-1.txt thompson-sampling 48 0.02 100.0 1.5501182850477027 
+
+../instances/i-1.txt thompson-sampling 49 0.02 100.0 3.72349384673491 
+
+../instances/i-1.txt thompson-sampling 0 0.02 400.0 10.239877521437396 
+
+../instances/i-1.txt thompson-sampling 1 0.02 400.0 10.267565181786685 
+
+../instances/i-1.txt thompson-sampling 2 0.02 400.0 2.244751528425235 
+
+../instances/i-1.txt thompson-sampling 3 0.02 400.0 28.797030344197093 
+
+../instances/i-1.txt thompson-sampling 4 0.02 400.0 4.656327960496996 
+
+../instances/i-1.txt thompson-sampling 5 0.02 400.0 1.442190277571644 
+
+../instances/i-1.txt thompson-sampling 6 0.02 400.0 13.191605809222892 
+
+../instances/i-1.txt thompson-sampling 7 0.02 400.0 -14.64709736405053 
+
+../instances/i-1.txt thompson-sampling 8 0.02 400.0 9.643271479059397 
+
+../instances/i-1.txt thompson-sampling 9 0.02 400.0 -1.0134649167599834 
+
+../instances/i-1.txt thompson-sampling 10 0.02 400.0 4.559726130416153 
+
+../instances/i-1.txt thompson-sampling 11 0.02 400.0 12.485944139841033 
+
+../instances/i-1.txt thompson-sampling 12 0.02 400.0 11.941928419694232 
+
+../instances/i-1.txt thompson-sampling 13 0.02 400.0 6.725658229060353 
+
+../instances/i-1.txt thompson-sampling 14 0.02 400.0 -9.690116643019765 
+
+../instances/i-1.txt thompson-sampling 15 0.02 400.0 -9.499547163447438 
+
+../instances/i-1.txt thompson-sampling 16 0.02 400.0 1.1799874523832026 
+
+../instances/i-1.txt thompson-sampling 17 0.02 400.0 -1.6576658104440036 
+
+../instances/i-1.txt thompson-sampling 18 0.02 400.0 0.7923558288986349 
+
+../instances/i-1.txt thompson-sampling 19 0.02 400.0 1.45448089603997 
+
+../instances/i-1.txt thompson-sampling 20 0.02 400.0 -1.189009567864799 
+
+../instances/i-1.txt thompson-sampling 21 0.02 400.0 14.198994706259374 
+
+../instances/i-1.txt thompson-sampling 22 0.02 400.0 6.691699455984112 
+
+../instances/i-1.txt thompson-sampling 23 0.02 400.0 23.2114634448201 
+
+../instances/i-1.txt thompson-sampling 24 0.02 400.0 5.953259471320156 
+
+../instances/i-1.txt thompson-sampling 25 0.02 400.0 -10.618221398315214 
+
+../instances/i-1.txt thompson-sampling 26 0.02 400.0 9.9197027443328 
+
+../instances/i-1.txt thompson-sampling 27 0.02 400.0 10.212525112312665 
+
+../instances/i-1.txt thompson-sampling 28 0.02 400.0 22.29856139010602 
+
+../instances/i-1.txt thompson-sampling 29 0.02 400.0 -7.995497908459004 
+
+../instances/i-1.txt thompson-sampling 30 0.02 400.0 13.175597414432596 
+
+../instances/i-1.txt thompson-sampling 31 0.02 400.0 -8.002126846478781 
+
+../instances/i-1.txt thompson-sampling 32 0.02 400.0 -0.5032467741315453 
+
+../instances/i-1.txt thompson-sampling 33 0.02 400.0 3.499481476197796 
+
+../instances/i-1.txt thompson-sampling 34 0.02 400.0 -0.1685587234228958 
+
+../instances/i-1.txt thompson-sampling 35 0.02 400.0 1.5363647900509563 
+
+../instances/i-1.txt thompson-sampling 36 0.02 400.0 -4.320990184716269 
+
+../instances/i-1.txt thompson-sampling 37 0.02 400.0 2.876727351451915 
+
+../instances/i-1.txt thompson-sampling 38 0.02 400.0 -3.1594058777844714 
+
+../instances/i-1.txt thompson-sampling 39 0.02 400.0 -1.539079904209061 
+
+../instances/i-1.txt thompson-sampling 40 0.02 400.0 6.5632425291897425 
+
+../instances/i-1.txt thompson-sampling 41 0.02 400.0 14.726665546240667 
+
+../instances/i-1.txt thompson-sampling 42 0.02 400.0 -1.8433286778241615 
+
+../instances/i-1.txt thompson-sampling 43 0.02 400.0 -18.787099899138422 
+
+../instances/i-1.txt thompson-sampling 44 0.02 400.0 -19.022482732359997 
+
+../instances/i-1.txt thompson-sampling 45 0.02 400.0 16.313541289226503 
+
+../instances/i-1.txt thompson-sampling 46 0.02 400.0 4.511122648985239 
+
+../instances/i-1.txt thompson-sampling 47 0.02 400.0 8.29748264270929 
+
+../instances/i-1.txt thompson-sampling 48 0.02 400.0 -4.836701262765889 
+
+../instances/i-1.txt thompson-sampling 49 0.02 400.0 -0.7415799243997271 
+
+../instances/i-1.txt thompson-sampling 0 0.02 1600.0 22.800398046789045 
+
+../instances/i-1.txt thompson-sampling 1 0.02 1600.0 8.16112289527711 
+
+../instances/i-1.txt thompson-sampling 2 0.02 1600.0 -3.279415682580732 
+
+../instances/i-1.txt thompson-sampling 3 0.02 1600.0 47.38840704175757 
+
+../instances/i-1.txt thompson-sampling 4 0.02 1600.0 31.013924110125654 
+
+../instances/i-1.txt thompson-sampling 5 0.02 1600.0 2.3899920583401677 
+
+../instances/i-1.txt thompson-sampling 6 0.02 1600.0 36.78300622359403 
+
+../instances/i-1.txt thompson-sampling 7 0.02 1600.0 -12.54386115430921 
+
+../instances/i-1.txt thompson-sampling 8 0.02 1600.0 7.065518489407638 
+
+../instances/i-1.txt thompson-sampling 9 0.02 1600.0 -14.983954513821692 
+
+../instances/i-1.txt thompson-sampling 10 0.02 1600.0 -0.30085359604573025 
+
+../instances/i-1.txt thompson-sampling 11 0.02 1600.0 3.5839618257631627 
+
+../instances/i-1.txt thompson-sampling 12 0.02 1600.0 22.693758069158367 
+
+../instances/i-1.txt thompson-sampling 13 0.02 1600.0 35.36447814066069 
+
+../instances/i-1.txt thompson-sampling 14 0.02 1600.0 2.0775852842062617 
+
+../instances/i-1.txt thompson-sampling 15 0.02 1600.0 -17.50507507138896 
+
+../instances/i-1.txt thompson-sampling 16 0.02 1600.0 5.790869257556493 
+
+../instances/i-1.txt thompson-sampling 17 0.02 1600.0 3.647284524176664 
+
+../instances/i-1.txt thompson-sampling 18 0.02 1600.0 4.196387709011288 
+
+../instances/i-1.txt thompson-sampling 19 0.02 1600.0 -13.32772793823657 
+
+../instances/i-1.txt thompson-sampling 20 0.02 1600.0 4.788692714517139 
+
+../instances/i-1.txt thompson-sampling 21 0.02 1600.0 23.573982378788852 
+
+../instances/i-1.txt thompson-sampling 22 0.02 1600.0 21.671826341245534 
+
+../instances/i-1.txt thompson-sampling 23 0.02 1600.0 57.255272655922845 
+
+../instances/i-1.txt thompson-sampling 24 0.02 1600.0 21.317985258164743 
+
+../instances/i-1.txt thompson-sampling 25 0.02 1600.0 -25.49106787911249 
+
+../instances/i-1.txt thompson-sampling 26 0.02 1600.0 19.428909922446586 
+
+../instances/i-1.txt thompson-sampling 27 0.02 1600.0 26.901218178814116 
+
+../instances/i-1.txt thompson-sampling 28 0.02 1600.0 32.23448441313781 
+
+../instances/i-1.txt thompson-sampling 29 0.02 1600.0 -0.5802977139327121 
+
+../instances/i-1.txt thompson-sampling 30 0.02 1600.0 26.418423176140543 
+
+../instances/i-1.txt thompson-sampling 31 0.02 1600.0 -16.84056985597112 
+
+../instances/i-1.txt thompson-sampling 32 0.02 1600.0 7.758239362042202 
+
+../instances/i-1.txt thompson-sampling 33 0.02 1600.0 -2.138332437889665 
+
+../instances/i-1.txt thompson-sampling 34 0.02 1600.0 -6.208329532537118 
+
+../instances/i-1.txt thompson-sampling 35 0.02 1600.0 9.074493023942283 
+
+../instances/i-1.txt thompson-sampling 36 0.02 1600.0 0.9548275377253668 
+
+../instances/i-1.txt thompson-sampling 37 0.02 1600.0 11.202265496621603 
+
+../instances/i-1.txt thompson-sampling 38 0.02 1600.0 -13.449158385316366 
+
+../instances/i-1.txt thompson-sampling 39 0.02 1600.0 8.15407017012924 
+
+../instances/i-1.txt thompson-sampling 40 0.02 1600.0 -7.958010593461415 
+
+../instances/i-1.txt thompson-sampling 41 0.02 1600.0 11.248650126754095 
+
+../instances/i-1.txt thompson-sampling 42 0.02 1600.0 -0.5954413347103458 
+
+../instances/i-1.txt thompson-sampling 43 0.02 1600.0 -43.7083964818346 
+
+../instances/i-1.txt thompson-sampling 44 0.02 1600.0 -31.80459778949287 
+
+../instances/i-1.txt thompson-sampling 45 0.02 1600.0 13.164913082868582 
+
+../instances/i-1.txt thompson-sampling 46 0.02 1600.0 -24.762893986104686 
+
+../instances/i-1.txt thompson-sampling 47 0.02 1600.0 -0.42142008798748654 
+
+../instances/i-1.txt thompson-sampling 48 0.02 1600.0 -7.549579124074089 
+
+../instances/i-1.txt thompson-sampling 49 0.02 1600.0 -16.707028330046345 
+
+../instances/i-1.txt thompson-sampling 0 0.02 6400.0 4.359686917808901 
+
+../instances/i-1.txt thompson-sampling 1 0.02 6400.0 8.56265427661158 
+
+../instances/i-1.txt thompson-sampling 2 0.02 6400.0 3.465132109261077 
+
+../instances/i-1.txt thompson-sampling 3 0.02 6400.0 57.74656888786751 
+
+../instances/i-1.txt thompson-sampling 4 0.02 6400.0 98.31609227662526 
+
+../instances/i-1.txt thompson-sampling 5 0.02 6400.0 10.681953953499209 
+
+../instances/i-1.txt thompson-sampling 6 0.02 6400.0 28.067267165456094 
+
+../instances/i-1.txt thompson-sampling 7 0.02 6400.0 29.131789264141553 
+
+../instances/i-1.txt thompson-sampling 8 0.02 6400.0 9.03135586498224 
+
+../instances/i-1.txt thompson-sampling 9 0.02 6400.0 -31.68484089200488 
+
+../instances/i-1.txt thompson-sampling 10 0.02 6400.0 -40.82302961427467 
+
+../instances/i-1.txt thompson-sampling 11 0.02 6400.0 -9.453855084972282 
+
+../instances/i-1.txt thompson-sampling 12 0.02 6400.0 50.499137563877696 
+
+../instances/i-1.txt thompson-sampling 13 0.02 6400.0 67.5202579036151 
+
+../instances/i-1.txt thompson-sampling 14 0.02 6400.0 15.636653552457364 
+
+../instances/i-1.txt thompson-sampling 15 0.02 6400.0 -54.76451093593943 
+
+../instances/i-1.txt thompson-sampling 16 0.02 6400.0 -14.616230197472454 
+
+../instances/i-1.txt thompson-sampling 17 0.02 6400.0 -82.36672670789996 
+
+../instances/i-1.txt thompson-sampling 18 0.02 6400.0 12.357704092331268 
+
+../instances/i-1.txt thompson-sampling 19 0.02 6400.0 -52.27319565457034 
+
+../instances/i-1.txt thompson-sampling 20 0.02 6400.0 36.12557233341922 
+
+../instances/i-1.txt thompson-sampling 21 0.02 6400.0 35.36014657597884 
+
+../instances/i-1.txt thompson-sampling 22 0.02 6400.0 39.611777984196884 
+
+../instances/i-1.txt thompson-sampling 23 0.02 6400.0 150.89429217291988 
+
+../instances/i-1.txt thompson-sampling 24 0.02 6400.0 77.39911537447286 
+
+../instances/i-1.txt thompson-sampling 25 0.02 6400.0 -20.182265936832714 
+
+../instances/i-1.txt thompson-sampling 26 0.02 6400.0 -17.794278248366382 
+
+../instances/i-1.txt thompson-sampling 27 0.02 6400.0 31.89868245541847 
+
+../instances/i-1.txt thompson-sampling 28 0.02 6400.0 54.862402423334636 
+
+../instances/i-1.txt thompson-sampling 29 0.02 6400.0 30.960661480720454 
+
+../instances/i-1.txt thompson-sampling 30 0.02 6400.0 32.1309849244321 
+
+../instances/i-1.txt thompson-sampling 31 0.02 6400.0 16.773639020698305 
+
+../instances/i-1.txt thompson-sampling 32 0.02 6400.0 -44.45796465815187 
+
+../instances/i-1.txt thompson-sampling 33 0.02 6400.0 24.06765491722912 
+
+../instances/i-1.txt thompson-sampling 34 0.02 6400.0 -8.526753717532333 
+
+../instances/i-1.txt thompson-sampling 35 0.02 6400.0 -17.251047966763128 
+
+../instances/i-1.txt thompson-sampling 36 0.02 6400.0 55.5185813703751 
+
+../instances/i-1.txt thompson-sampling 37 0.02 6400.0 16.651338418606876 
+
+../instances/i-1.txt thompson-sampling 38 0.02 6400.0 -14.635055698760096 
+
+../instances/i-1.txt thompson-sampling 39 0.02 6400.0 12.371374521406711 
+
+../instances/i-1.txt thompson-sampling 40 0.02 6400.0 -49.16862339041013 
+
+../instances/i-1.txt thompson-sampling 41 0.02 6400.0 -2.6017039354755256 
+
+../instances/i-1.txt thompson-sampling 42 0.02 6400.0 -35.930527706372104 
+
+../instances/i-1.txt thompson-sampling 43 0.02 6400.0 -81.55139301440192 
+
+../instances/i-1.txt thompson-sampling 44 0.02 6400.0 -23.626840966975447 
+
+../instances/i-1.txt thompson-sampling 45 0.02 6400.0 29.672283068475863 
+
+../instances/i-1.txt thompson-sampling 46 0.02 6400.0 -56.02594507648399 
+
+../instances/i-1.txt thompson-sampling 47 0.02 6400.0 -28.206995501291956 
+
+../instances/i-1.txt thompson-sampling 48 0.02 6400.0 5.030774234892043 
+
+../instances/i-1.txt thompson-sampling 49 0.02 6400.0 -15.385709144498499 
+
+../instances/i-1.txt thompson-sampling 0 0.02 25600.0 -3.948054353283075 
+
+../instances/i-1.txt thompson-sampling 1 0.02 25600.0 4.5011482409577965 
+
+../instances/i-1.txt thompson-sampling 2 0.02 25600.0 52.460471830461934 
+
+../instances/i-1.txt thompson-sampling 3 0.02 25600.0 59.402788095285146 
+
+../instances/i-1.txt thompson-sampling 4 0.02 25600.0 170.10734742896813 
+
+../instances/i-1.txt thompson-sampling 5 0.02 25600.0 -34.81596058266391 
+
+../instances/i-1.txt thompson-sampling 6 0.02 25600.0 -89.31541187261894 
+
+../instances/i-1.txt thompson-sampling 7 0.02 25600.0 107.48865639514901 
+
+../instances/i-1.txt thompson-sampling 8 0.02 25600.0 130.37084099053467 
+
+../instances/i-1.txt thompson-sampling 9 0.02 25600.0 -18.338757278022364 
+
+../instances/i-1.txt thompson-sampling 10 0.02 25600.0 -105.21410700795134 
+
+../instances/i-1.txt thompson-sampling 11 0.02 25600.0 -37.823329045791695 
+
+../instances/i-1.txt thompson-sampling 12 0.02 25600.0 113.57735207253508 
+
+../instances/i-1.txt thompson-sampling 13 0.02 25600.0 178.47371561866058 
+
+../instances/i-1.txt thompson-sampling 14 0.02 25600.0 -11.375683490174197 
+
+../instances/i-1.txt thompson-sampling 15 0.02 25600.0 -153.15804284089785 
+
+../instances/i-1.txt thompson-sampling 16 0.02 25600.0 -55.49782674290012 
+
+../instances/i-1.txt thompson-sampling 17 0.02 25600.0 -205.72609155600313 
+
+../instances/i-1.txt thompson-sampling 18 0.02 25600.0 0.5156433196149499 
+
+../instances/i-1.txt thompson-sampling 19 0.02 25600.0 -88.81036690014156 
+
+../instances/i-1.txt thompson-sampling 20 0.02 25600.0 90.68089875733567 
+
+../instances/i-1.txt thompson-sampling 21 0.02 25600.0 75.00952124282604 
+
+../instances/i-1.txt thompson-sampling 22 0.02 25600.0 173.02907810190328 
+
+../instances/i-1.txt thompson-sampling 23 0.02 25600.0 232.44451166494306 
+
+../instances/i-1.txt thompson-sampling 24 0.02 25600.0 177.5281167133796 
+
+../instances/i-1.txt thompson-sampling 25 0.02 25600.0 9.736514727069933 
+
+../instances/i-1.txt thompson-sampling 26 0.02 25600.0 -25.729589805043577 
+
+../instances/i-1.txt thompson-sampling 27 0.02 25600.0 19.09781241066807 
+
+../instances/i-1.txt thompson-sampling 28 0.02 25600.0 82.72685829477766 
+
+../instances/i-1.txt thompson-sampling 29 0.02 25600.0 105.7975786504147 
+
+../instances/i-1.txt thompson-sampling 30 0.02 25600.0 35.572439047690196 
+
+../instances/i-1.txt thompson-sampling 31 0.02 25600.0 69.55454168519955 
+
+../instances/i-1.txt thompson-sampling 32 0.02 25600.0 -180.30410211394897 
+
+../instances/i-1.txt thompson-sampling 33 0.02 25600.0 94.43434913198591 
+
+../instances/i-1.txt thompson-sampling 34 0.02 25600.0 13.517085403050006 
+
+../instances/i-1.txt thompson-sampling 35 0.02 25600.0 -21.803100790115817 
+
+../instances/i-1.txt thompson-sampling 36 0.02 25600.0 175.00202035297391 
+
+../instances/i-1.txt thompson-sampling 37 0.02 25600.0 9.95462485718227 
+
+../instances/i-1.txt thompson-sampling 38 0.02 25600.0 13.431551418163293 
+
+../instances/i-1.txt thompson-sampling 39 0.02 25600.0 16.934637550020494 
+
+../instances/i-1.txt thompson-sampling 40 0.02 25600.0 -29.11470917476219 
+
+../instances/i-1.txt thompson-sampling 41 0.02 25600.0 -34.75737739586038 
+
+../instances/i-1.txt thompson-sampling 42 0.02 25600.0 -150.73436835075518 
+
+../instances/i-1.txt thompson-sampling 43 0.02 25600.0 -170.47384770823555 
+
+../instances/i-1.txt thompson-sampling 44 0.02 25600.0 29.132952731512894 
+
+../instances/i-1.txt thompson-sampling 45 0.02 25600.0 74.07989182261566 
+
+../instances/i-1.txt thompson-sampling 46 0.02 25600.0 -108.32477297704571 
+
+../instances/i-1.txt thompson-sampling 47 0.02 25600.0 -88.7923874020245 
+
+../instances/i-1.txt thompson-sampling 48 0.02 25600.0 -21.798920087606927 
+
+../instances/i-1.txt thompson-sampling 49 0.02 25600.0 38.34372193427648 
+
+../instances/i-1.txt thompson-sampling 0 0.02 102400.0 18.120294866154037 
+
+../instances/i-1.txt thompson-sampling 1 0.02 102400.0 -84.34556339843667 
+
+../instances/i-1.txt thompson-sampling 2 0.02 102400.0 165.68439023352897 
+
+../instances/i-1.txt thompson-sampling 3 0.02 102400.0 145.56016523537397 
+
+../instances/i-1.txt thompson-sampling 4 0.02 102400.0 226.94496490549867 
+
+../instances/i-1.txt thompson-sampling 5 0.02 102400.0 -192.49823562053334 
+
+../instances/i-1.txt thompson-sampling 6 0.02 102400.0 -231.6051511677044 
+
+../instances/i-1.txt thompson-sampling 7 0.02 102400.0 40.056125372184056 
+
+../instances/i-1.txt thompson-sampling 8 0.02 102400.0 397.52692822406914 
+
+../instances/i-1.txt thompson-sampling 9 0.02 102400.0 -44.33340539916611 
+
+../instances/i-1.txt thompson-sampling 10 0.02 102400.0 -82.60176108695902 
+
+../instances/i-1.txt thompson-sampling 11 0.02 102400.0 -276.55467848796354 
+
+../instances/i-1.txt thompson-sampling 12 0.02 102400.0 327.56899615906076 
+
+../instances/i-1.txt thompson-sampling 13 0.02 102400.0 355.22646805824263 
+
+../instances/i-1.txt thompson-sampling 14 0.02 102400.0 -99.36847509368313 
+
+../instances/i-1.txt thompson-sampling 15 0.02 102400.0 -228.5461280599235 
+
+../instances/i-1.txt thompson-sampling 16 0.02 102400.0 -14.420117348864103 
+
+../instances/i-1.txt thompson-sampling 17 0.02 102400.0 -272.175802073856 
+
+../instances/i-1.txt thompson-sampling 18 0.02 102400.0 43.62407817540949 
+
+../instances/i-1.txt thompson-sampling 19 0.02 102400.0 -181.0534199240779 
+
+../instances/i-1.txt thompson-sampling 20 0.02 102400.0 134.203144157434 
+
+../instances/i-1.txt thompson-sampling 21 0.02 102400.0 122.72606680670766 
+
+../instances/i-1.txt thompson-sampling 22 0.02 102400.0 177.24029341015654 
+
+../instances/i-1.txt thompson-sampling 23 0.02 102400.0 483.39072140432893 
+
+../instances/i-1.txt thompson-sampling 24 0.02 102400.0 319.9064335803477 
+
+../instances/i-1.txt thompson-sampling 25 0.02 102400.0 33.13244260252477 
+
+../instances/i-1.txt thompson-sampling 26 0.02 102400.0 4.467238811469643 
+
+../instances/i-1.txt thompson-sampling 27 0.02 102400.0 75.51194433709523 
+
+../instances/i-1.txt thompson-sampling 28 0.02 102400.0 107.47480851904147 
+
+../instances/i-1.txt thompson-sampling 29 0.02 102400.0 126.31654145345297 
+
+../instances/i-1.txt thompson-sampling 30 0.02 102400.0 -10.600596346262646 
+
+../instances/i-1.txt thompson-sampling 31 0.02 102400.0 129.5396976433362 
+
+../instances/i-1.txt thompson-sampling 32 0.02 102400.0 -331.18731265472974 
+
+../instances/i-1.txt thompson-sampling 33 0.02 102400.0 220.49428164759962 
+
+../instances/i-1.txt thompson-sampling 34 0.02 102400.0 101.11158172549524 
+
+../instances/i-1.txt thompson-sampling 35 0.02 102400.0 -46.10138923012737 
+
+../instances/i-1.txt thompson-sampling 36 0.02 102400.0 457.99100767045746 
+
+../instances/i-1.txt thompson-sampling 37 0.02 102400.0 105.72862385848465 
+
+../instances/i-1.txt thompson-sampling 38 0.02 102400.0 5.405721920255225 
+
+../instances/i-1.txt thompson-sampling 39 0.02 102400.0 -34.63712060170941 
+
+../instances/i-1.txt thompson-sampling 40 0.02 102400.0 10.70334242243652 
+
+../instances/i-1.txt thompson-sampling 41 0.02 102400.0 -190.57160910766075 
+
+../instances/i-1.txt thompson-sampling 42 0.02 102400.0 -358.49551763896255 
+
+../instances/i-1.txt thompson-sampling 43 0.02 102400.0 -432.4980503415923 
+
+../instances/i-1.txt thompson-sampling 44 0.02 102400.0 9.89468029136834 
+
+../instances/i-1.txt thompson-sampling 45 0.02 102400.0 130.78191010157616 
+
+../instances/i-1.txt thompson-sampling 46 0.02 102400.0 -233.58937703029432 
+
+../instances/i-1.txt thompson-sampling 47 0.02 102400.0 43.50260975529769 
+
+../instances/i-1.txt thompson-sampling 48 0.02 102400.0 -231.29584558050652 
+
+../instances/i-1.txt thompson-sampling 49 0.02 102400.0 250.465879491566 
+
+../instances/i-2.txt epsilon-greedy 0 0.02 100.0 14.17258256489943 
+
+../instances/i-2.txt epsilon-greedy 1 0.02 100.0 -13.396598196709595 
+
+../instances/i-2.txt epsilon-greedy 2 0.02 100.0 12.89812907074254 
+
+../instances/i-2.txt epsilon-greedy 3 0.02 100.0 -9.929277221890848 
+
+../instances/i-2.txt epsilon-greedy 4 0.02 100.0 3.6397138973890435 
+
+../instances/i-2.txt epsilon-greedy 5 0.02 100.0 -3.5414421884550045 
+
+../instances/i-2.txt epsilon-greedy 6 0.02 100.0 28.209963355695706 
+
+../instances/i-2.txt epsilon-greedy 7 0.02 100.0 -4.887575433867991 
+
+../instances/i-2.txt epsilon-greedy 8 0.02 100.0 10.352980481805526 
+
+../instances/i-2.txt epsilon-greedy 9 0.02 100.0 0.7923398713507994 
+
+../instances/i-2.txt epsilon-greedy 10 0.02 100.0 12.870578930562738 
+
+../instances/i-2.txt epsilon-greedy 11 0.02 100.0 2.302762714934169 
+
+../instances/i-2.txt epsilon-greedy 12 0.02 100.0 -5.961890349382351 
+
+../instances/i-2.txt epsilon-greedy 13 0.02 100.0 8.43452315079896 
+
+../instances/i-2.txt epsilon-greedy 14 0.02 100.0 7.801044802972434 
+
+../instances/i-2.txt epsilon-greedy 15 0.02 100.0 -0.854685991552186 
+
+../instances/i-2.txt epsilon-greedy 16 0.02 100.0 3.801644125543875 
+
+../instances/i-2.txt epsilon-greedy 17 0.02 100.0 1.2522254718192671 
+
+../instances/i-2.txt epsilon-greedy 18 0.02 100.0 24.47686026479437 
+
+../instances/i-2.txt epsilon-greedy 19 0.02 100.0 -5.494621665907431 
+
+../instances/i-2.txt epsilon-greedy 20 0.02 100.0 42.23411666875122 
+
+../instances/i-2.txt epsilon-greedy 21 0.02 100.0 3.900473752956487 
+
+../instances/i-2.txt epsilon-greedy 22 0.02 100.0 -4.065431755651312 
+
+../instances/i-2.txt epsilon-greedy 23 0.02 100.0 10.425413502994264 
+
+../instances/i-2.txt epsilon-greedy 24 0.02 100.0 27.21596390797759 
+
+../instances/i-2.txt epsilon-greedy 25 0.02 100.0 -16.66720379934503 
+
+../instances/i-2.txt epsilon-greedy 26 0.02 100.0 5.278809528767801 
+
+../instances/i-2.txt epsilon-greedy 27 0.02 100.0 10.481806518147158 
+
+../instances/i-2.txt epsilon-greedy 28 0.02 100.0 -0.409854322857449 
+
+../instances/i-2.txt epsilon-greedy 29 0.02 100.0 10.569182265153255 
+
+../instances/i-2.txt epsilon-greedy 30 0.02 100.0 23.900390131416156 
+
+../instances/i-2.txt epsilon-greedy 31 0.02 100.0 -2.531836554937696 
+
+../instances/i-2.txt epsilon-greedy 32 0.02 100.0 6.037211792577404 
+
+../instances/i-2.txt epsilon-greedy 33 0.02 100.0 1.2217658321860454 
+
+../instances/i-2.txt epsilon-greedy 34 0.02 100.0 2.7072172583452834 
+
+../instances/i-2.txt epsilon-greedy 35 0.02 100.0 0.305957783564477 
+
+../instances/i-2.txt epsilon-greedy 36 0.02 100.0 18.428793882443113 
+
+../instances/i-2.txt epsilon-greedy 37 0.02 100.0 -8.621409204027819 
+
+../instances/i-2.txt epsilon-greedy 38 0.02 100.0 6.321470056207108 
+
+../instances/i-2.txt epsilon-greedy 39 0.02 100.0 28.50712550211478 
+
+../instances/i-2.txt epsilon-greedy 40 0.02 100.0 22.736208172574003 
+
+../instances/i-2.txt epsilon-greedy 41 0.02 100.0 -0.015311861293856033 
+
+../instances/i-2.txt epsilon-greedy 42 0.02 100.0 -2.74434000400425 
+
+../instances/i-2.txt epsilon-greedy 43 0.02 100.0 -4.539113117950787 
+
+../instances/i-2.txt epsilon-greedy 44 0.02 100.0 14.820529701227544 
+
+../instances/i-2.txt epsilon-greedy 45 0.02 100.0 -1.0287845629965846 
+
+../instances/i-2.txt epsilon-greedy 46 0.02 100.0 -12.123922980304117 
+
+../instances/i-2.txt epsilon-greedy 47 0.02 100.0 7.7800897397398865 
+
+../instances/i-2.txt epsilon-greedy 48 0.02 100.0 -12.632513833979045 
+
+../instances/i-2.txt epsilon-greedy 49 0.02 100.0 12.906597304041657 
+
+../instances/i-2.txt epsilon-greedy 0 0.02 400.0 43.32011966296547 
+
+../instances/i-2.txt epsilon-greedy 1 0.02 400.0 -11.646082559347738 
+
+../instances/i-2.txt epsilon-greedy 2 0.02 400.0 22.411071024541588 
+
+../instances/i-2.txt epsilon-greedy 3 0.02 400.0 3.2491800797816692 
+
+../instances/i-2.txt epsilon-greedy 4 0.02 400.0 5.790708683895379 
+
+../instances/i-2.txt epsilon-greedy 5 0.02 400.0 2.3818996569007806 
+
+../instances/i-2.txt epsilon-greedy 6 0.02 400.0 111.77057813733903 
+
+../instances/i-2.txt epsilon-greedy 7 0.02 400.0 -5.30899596394275 
+
+../instances/i-2.txt epsilon-greedy 8 0.02 400.0 37.241156294275825 
+
+../instances/i-2.txt epsilon-greedy 9 0.02 400.0 8.90039371887141 
+
+../instances/i-2.txt epsilon-greedy 10 0.02 400.0 39.70231638786196 
+
+../instances/i-2.txt epsilon-greedy 11 0.02 400.0 36.88139952409755 
+
+../instances/i-2.txt epsilon-greedy 12 0.02 400.0 -10.137980540987005 
+
+../instances/i-2.txt epsilon-greedy 13 0.02 400.0 31.589342825417376 
+
+../instances/i-2.txt epsilon-greedy 14 0.02 400.0 7.310181049665512 
+
+../instances/i-2.txt epsilon-greedy 15 0.02 400.0 3.927089298818725 
+
+../instances/i-2.txt epsilon-greedy 16 0.02 400.0 21.23147262075079 
+
+../instances/i-2.txt epsilon-greedy 17 0.02 400.0 16.42516137895736 
+
+../instances/i-2.txt epsilon-greedy 18 0.02 400.0 44.31837478092843 
+
+../instances/i-2.txt epsilon-greedy 19 0.02 400.0 -14.488263347036817 
+
+../instances/i-2.txt epsilon-greedy 20 0.02 400.0 54.661599401458076 
+
+../instances/i-2.txt epsilon-greedy 21 0.02 400.0 41.8980680824479 
+
+../instances/i-2.txt epsilon-greedy 22 0.02 400.0 -12.461496487636772 
+
+../instances/i-2.txt epsilon-greedy 23 0.02 400.0 39.93929574194982 
+
+../instances/i-2.txt epsilon-greedy 24 0.02 400.0 38.99206829348301 
+
+../instances/i-2.txt epsilon-greedy 25 0.02 400.0 -24.684129551524617 
+
+../instances/i-2.txt epsilon-greedy 26 0.02 400.0 34.736221029976484 
+
+../instances/i-2.txt epsilon-greedy 27 0.02 400.0 34.561754435302404 
+
+../instances/i-2.txt epsilon-greedy 28 0.02 400.0 -1.9407899776545443 
+
+../instances/i-2.txt epsilon-greedy 29 0.02 400.0 60.1689439237107 
+
+../instances/i-2.txt epsilon-greedy 30 0.02 400.0 73.95648150081033 
+
+../instances/i-2.txt epsilon-greedy 31 0.02 400.0 28.257347704734155 
+
+../instances/i-2.txt epsilon-greedy 32 0.02 400.0 0.9963863492868339 
+
+../instances/i-2.txt epsilon-greedy 33 0.02 400.0 6.376728018550049 
+
+../instances/i-2.txt epsilon-greedy 34 0.02 400.0 9.274973818366503 
+
+../instances/i-2.txt epsilon-greedy 35 0.02 400.0 9.84137100729673 
+
+../instances/i-2.txt epsilon-greedy 36 0.02 400.0 32.4208304790138 
+
+../instances/i-2.txt epsilon-greedy 37 0.02 400.0 -26.865557576348635 
+
+../instances/i-2.txt epsilon-greedy 38 0.02 400.0 50.42704899536384 
+
+../instances/i-2.txt epsilon-greedy 39 0.02 400.0 95.87623455262826 
+
+../instances/i-2.txt epsilon-greedy 40 0.02 400.0 45.767682368839495 
+
+../instances/i-2.txt epsilon-greedy 41 0.02 400.0 32.61087413312646 
+
+../instances/i-2.txt epsilon-greedy 42 0.02 400.0 13.063948774178462 
+
+../instances/i-2.txt epsilon-greedy 43 0.02 400.0 0.1914874161106776 
+
+../instances/i-2.txt epsilon-greedy 44 0.02 400.0 39.28207391753833 
+
+../instances/i-2.txt epsilon-greedy 45 0.02 400.0 -7.835687567376606 
+
+../instances/i-2.txt epsilon-greedy 46 0.02 400.0 -6.30651010196415 
+
+../instances/i-2.txt epsilon-greedy 47 0.02 400.0 37.248448915027616 
+
+../instances/i-2.txt epsilon-greedy 48 0.02 400.0 -23.947488139605486 
+
+../instances/i-2.txt epsilon-greedy 49 0.02 400.0 37.86176405349993 
+
+../instances/i-2.txt epsilon-greedy 0 0.02 1600.0 165.07732131199262 
+
+../instances/i-2.txt epsilon-greedy 1 0.02 1600.0 -12.55454874795916 
+
+../instances/i-2.txt epsilon-greedy 2 0.02 1600.0 2.4431319000549383 
+
+../instances/i-2.txt epsilon-greedy 3 0.02 1600.0 39.0519713831673 
+
+../instances/i-2.txt epsilon-greedy 4 0.02 1600.0 32.420861508764354 
+
+../instances/i-2.txt epsilon-greedy 5 0.02 1600.0 12.886671683989453 
+
+../instances/i-2.txt epsilon-greedy 6 0.02 1600.0 213.82627614862204 
+
+../instances/i-2.txt epsilon-greedy 7 0.02 1600.0 -6.229295963562961 
+
+../instances/i-2.txt epsilon-greedy 8 0.02 1600.0 18.651755636675663 
+
+../instances/i-2.txt epsilon-greedy 9 0.02 1600.0 21.152788342638843 
+
+../instances/i-2.txt epsilon-greedy 10 0.02 1600.0 39.91192984194842 
+
+../instances/i-2.txt epsilon-greedy 11 0.02 1600.0 177.72072813296387 
+
+../instances/i-2.txt epsilon-greedy 12 0.02 1600.0 -9.2503216694854 
+
+../instances/i-2.txt epsilon-greedy 13 0.02 1600.0 113.64702721273986 
+
+../instances/i-2.txt epsilon-greedy 14 0.02 1600.0 31.48994088574995 
+
+../instances/i-2.txt epsilon-greedy 15 0.02 1600.0 12.59945915376516 
+
+../instances/i-2.txt epsilon-greedy 16 0.02 1600.0 116.39740630711462 
+
+../instances/i-2.txt epsilon-greedy 17 0.02 1600.0 23.394732391010283 
+
+../instances/i-2.txt epsilon-greedy 18 0.02 1600.0 10.459478107571856 
+
+../instances/i-2.txt epsilon-greedy 19 0.02 1600.0 -4.481551310255123 
+
+../instances/i-2.txt epsilon-greedy 20 0.02 1600.0 52.264157776184135 
+
+../instances/i-2.txt epsilon-greedy 21 0.02 1600.0 126.54450869650266 
+
+../instances/i-2.txt epsilon-greedy 22 0.02 1600.0 -34.11621918168521 
+
+../instances/i-2.txt epsilon-greedy 23 0.02 1600.0 150.75996285958243 
+
+../instances/i-2.txt epsilon-greedy 24 0.02 1600.0 35.947771437176996 
+
+../instances/i-2.txt epsilon-greedy 25 0.02 1600.0 -32.78288515134515 
+
+../instances/i-2.txt epsilon-greedy 26 0.02 1600.0 54.81514456522214 
+
+../instances/i-2.txt epsilon-greedy 27 0.02 1600.0 84.14575185647044 
+
+../instances/i-2.txt epsilon-greedy 28 0.02 1600.0 8.70170625041418 
+
+../instances/i-2.txt epsilon-greedy 29 0.02 1600.0 64.01016460062478 
+
+../instances/i-2.txt epsilon-greedy 30 0.02 1600.0 204.32174595341073 
+
+../instances/i-2.txt epsilon-greedy 31 0.02 1600.0 148.94533520924924 
+
+../instances/i-2.txt epsilon-greedy 32 0.02 1600.0 -11.260268065201744 
+
+../instances/i-2.txt epsilon-greedy 33 0.02 1600.0 21.715011946517002 
+
+../instances/i-2.txt epsilon-greedy 34 0.02 1600.0 9.47299231530974 
+
+../instances/i-2.txt epsilon-greedy 35 0.02 1600.0 28.90086396310037 
+
+../instances/i-2.txt epsilon-greedy 36 0.02 1600.0 62.50419764188118 
+
+../instances/i-2.txt epsilon-greedy 37 0.02 1600.0 -23.28637707955444 
+
+../instances/i-2.txt epsilon-greedy 38 0.02 1600.0 210.2061539232904 
+
+../instances/i-2.txt epsilon-greedy 39 0.02 1600.0 89.86271088681451 
+
+../instances/i-2.txt epsilon-greedy 40 0.02 1600.0 49.65615934124697 
+
+../instances/i-2.txt epsilon-greedy 41 0.02 1600.0 129.1753839651114 
+
+../instances/i-2.txt epsilon-greedy 42 0.02 1600.0 142.05764629524498 
+
+../instances/i-2.txt epsilon-greedy 43 0.02 1600.0 24.81264168967715 
+
+../instances/i-2.txt epsilon-greedy 44 0.02 1600.0 138.71865697315718 
+
+../instances/i-2.txt epsilon-greedy 45 0.02 1600.0 -40.26134435752386 
+
+../instances/i-2.txt epsilon-greedy 46 0.02 1600.0 12.028006252971583 
+
+../instances/i-2.txt epsilon-greedy 47 0.02 1600.0 152.22978057471343 
+
+../instances/i-2.txt epsilon-greedy 48 0.02 1600.0 -24.907977905621287 
+
+../instances/i-2.txt epsilon-greedy 49 0.02 1600.0 134.0813515970957 
+
+../instances/i-2.txt epsilon-greedy 0 0.02 6400.0 259.9522130119244 
+
+../instances/i-2.txt epsilon-greedy 1 0.02 6400.0 18.48339027116624 
+
+../instances/i-2.txt epsilon-greedy 2 0.02 6400.0 -30.89817118469213 
+
+../instances/i-2.txt epsilon-greedy 3 0.02 6400.0 118.66005866151794 
+
+../instances/i-2.txt epsilon-greedy 4 0.02 6400.0 63.30869785422708 
+
+../instances/i-2.txt epsilon-greedy 5 0.02 6400.0 25.568690835257584 
+
+../instances/i-2.txt epsilon-greedy 6 0.02 6400.0 302.07363718664544 
+
+../instances/i-2.txt epsilon-greedy 7 0.02 6400.0 42.42574533422711 
+
+../instances/i-2.txt epsilon-greedy 8 0.02 6400.0 -52.80586518537279 
+
+../instances/i-2.txt epsilon-greedy 9 0.02 6400.0 41.74051745223865 
+
+../instances/i-2.txt epsilon-greedy 10 0.02 6400.0 12.898725952144481 
+
+../instances/i-2.txt epsilon-greedy 11 0.02 6400.0 323.9804389095705 
+
+../instances/i-2.txt epsilon-greedy 12 0.02 6400.0 27.08595786133777 
+
+../instances/i-2.txt epsilon-greedy 13 0.02 6400.0 571.0086026298561 
+
+../instances/i-2.txt epsilon-greedy 14 0.02 6400.0 83.0435345987326 
+
+../instances/i-2.txt epsilon-greedy 15 0.02 6400.0 71.25417652861192 
+
+../instances/i-2.txt epsilon-greedy 16 0.02 6400.0 588.5268567736707 
+
+../instances/i-2.txt epsilon-greedy 17 0.02 6400.0 30.873833402106605 
+
+../instances/i-2.txt epsilon-greedy 18 0.02 6400.0 -3.4286002890622593 
+
+../instances/i-2.txt epsilon-greedy 19 0.02 6400.0 75.53667486620405 
+
+../instances/i-2.txt epsilon-greedy 20 0.02 6400.0 81.19775901746016 
+
+../instances/i-2.txt epsilon-greedy 21 0.02 6400.0 202.36640054990787 
+
+../instances/i-2.txt epsilon-greedy 22 0.02 6400.0 -39.845142990933475 
+
+../instances/i-2.txt epsilon-greedy 23 0.02 6400.0 472.17434688279866 
+
+../instances/i-2.txt epsilon-greedy 24 0.02 6400.0 19.410508539873025 
+
+../instances/i-2.txt epsilon-greedy 25 0.02 6400.0 -31.08216697564021 
+
+../instances/i-2.txt epsilon-greedy 26 0.02 6400.0 106.13701192802256 
+
+../instances/i-2.txt epsilon-greedy 27 0.02 6400.0 158.4919556253781 
+
+../instances/i-2.txt epsilon-greedy 28 0.02 6400.0 -8.684471996852453 
+
+../instances/i-2.txt epsilon-greedy 29 0.02 6400.0 66.87992951583978 
+
+../instances/i-2.txt epsilon-greedy 30 0.02 6400.0 255.06221475140006 
+
+../instances/i-2.txt epsilon-greedy 31 0.02 6400.0 222.63453910289826 
+
+../instances/i-2.txt epsilon-greedy 32 0.02 6400.0 -50.44688099794665 
+
+../instances/i-2.txt epsilon-greedy 33 0.02 6400.0 89.18389651007715 
+
+../instances/i-2.txt epsilon-greedy 34 0.02 6400.0 34.05711803815702 
+
+../instances/i-2.txt epsilon-greedy 35 0.02 6400.0 55.4088393768733 
+
+../instances/i-2.txt epsilon-greedy 36 0.02 6400.0 134.39046465638904 
+
+../instances/i-2.txt epsilon-greedy 37 0.02 6400.0 -11.122556230226191 
+
+../instances/i-2.txt epsilon-greedy 38 0.02 6400.0 375.45668516381994 
+
+../instances/i-2.txt epsilon-greedy 39 0.02 6400.0 156.04760339462854 
+
+../instances/i-2.txt epsilon-greedy 40 0.02 6400.0 45.39687274853329 
+
+../instances/i-2.txt epsilon-greedy 41 0.02 6400.0 160.13192453286183 
+
+../instances/i-2.txt epsilon-greedy 42 0.02 6400.0 546.23098105666 
+
+../instances/i-2.txt epsilon-greedy 43 0.02 6400.0 58.452508473465876 
+
+../instances/i-2.txt epsilon-greedy 44 0.02 6400.0 350.138886933618 
+
+../instances/i-2.txt epsilon-greedy 45 0.02 6400.0 -96.6566193496417 
+
+../instances/i-2.txt epsilon-greedy 46 0.02 6400.0 44.59340313975272 
+
+../instances/i-2.txt epsilon-greedy 47 0.02 6400.0 268.93949255609175 
+
+../instances/i-2.txt epsilon-greedy 48 0.02 6400.0 -1.6198607734373933 
+
+../instances/i-2.txt epsilon-greedy 49 0.02 6400.0 476.8719303066827 
+
+../instances/i-2.txt epsilon-greedy 0 0.02 25600.0 313.4768902913557 
+
+../instances/i-2.txt epsilon-greedy 1 0.02 25600.0 65.21894494013718 
+
+../instances/i-2.txt epsilon-greedy 2 0.02 25600.0 79.14799360250925 
+
+../instances/i-2.txt epsilon-greedy 3 0.02 25600.0 300.1132171291871 
+
+../instances/i-2.txt epsilon-greedy 4 0.02 25600.0 206.21147206817886 
+
+../instances/i-2.txt epsilon-greedy 5 0.02 25600.0 209.4740537133928 
+
+../instances/i-2.txt epsilon-greedy 6 0.02 25600.0 349.5944331781985 
+
+../instances/i-2.txt epsilon-greedy 7 0.02 25600.0 140.0290875202175 
+
+../instances/i-2.txt epsilon-greedy 8 0.02 25600.0 -132.55547878218403 
+
+../instances/i-2.txt epsilon-greedy 9 0.02 25600.0 130.38021425968438 
+
+../instances/i-2.txt epsilon-greedy 10 0.02 25600.0 76.36772405859267 
+
+../instances/i-2.txt epsilon-greedy 11 0.02 25600.0 449.02102927000715 
+
+../instances/i-2.txt epsilon-greedy 12 0.02 25600.0 133.85143733171412 
+
+../instances/i-2.txt epsilon-greedy 13 0.02 25600.0 1838.8393456870626 
+
+../instances/i-2.txt epsilon-greedy 14 0.02 25600.0 272.203586089018 
+
+../instances/i-2.txt epsilon-greedy 15 0.02 25600.0 241.3403187932105 
+
+../instances/i-2.txt epsilon-greedy 16 0.02 25600.0 927.9183490353711 
+
+../instances/i-2.txt epsilon-greedy 17 0.02 25600.0 70.02960272574514 
+
+../instances/i-2.txt epsilon-greedy 18 0.02 25600.0 102.82975523523481 
+
+../instances/i-2.txt epsilon-greedy 19 0.02 25600.0 236.2852088709776 
+
+../instances/i-2.txt epsilon-greedy 20 0.02 25600.0 143.51096091482867 
+
+../instances/i-2.txt epsilon-greedy 21 0.02 25600.0 394.6628047920105 
+
+../instances/i-2.txt epsilon-greedy 22 0.02 25600.0 31.48264079789857 
+
+../instances/i-2.txt epsilon-greedy 23 0.02 25600.0 645.9467542899131 
+
+../instances/i-2.txt epsilon-greedy 24 0.02 25600.0 84.19590891921517 
+
+../instances/i-2.txt epsilon-greedy 25 0.02 25600.0 0.12627813556631406 
+
+../instances/i-2.txt epsilon-greedy 26 0.02 25600.0 201.21214361213276 
+
+../instances/i-2.txt epsilon-greedy 27 0.02 25600.0 316.5592531393513 
+
+../instances/i-2.txt epsilon-greedy 28 0.02 25600.0 76.98302222544757 
+
+../instances/i-2.txt epsilon-greedy 29 0.02 25600.0 219.62483957641922 
+
+../instances/i-2.txt epsilon-greedy 30 0.02 25600.0 334.0902683934976 
+
+../instances/i-2.txt epsilon-greedy 31 0.02 25600.0 402.9882970308531 
+
+../instances/i-2.txt epsilon-greedy 32 0.02 25600.0 -97.589338324286 
+
+../instances/i-2.txt epsilon-greedy 33 0.02 25600.0 260.1724491195805 
+
+../instances/i-2.txt epsilon-greedy 34 0.02 25600.0 88.7385002301087 
+
+../instances/i-2.txt epsilon-greedy 35 0.02 25600.0 149.67878315094478 
+
+../instances/i-2.txt epsilon-greedy 36 0.02 25600.0 302.62382541690937 
+
+../instances/i-2.txt epsilon-greedy 37 0.02 25600.0 39.557922965888736 
+
+../instances/i-2.txt epsilon-greedy 38 0.02 25600.0 532.4728087374632 
+
+../instances/i-2.txt epsilon-greedy 39 0.02 25600.0 291.2812626679173 
+
+../instances/i-2.txt epsilon-greedy 40 0.02 25600.0 123.60473307234354 
+
+../instances/i-2.txt epsilon-greedy 41 0.02 25600.0 232.14067713712592 
+
+../instances/i-2.txt epsilon-greedy 42 0.02 25600.0 595.461491205048 
+
+../instances/i-2.txt epsilon-greedy 43 0.02 25600.0 60.74499077326965 
+
+../instances/i-2.txt epsilon-greedy 44 0.02 25600.0 287.43551060162605 
+
+../instances/i-2.txt epsilon-greedy 45 0.02 25600.0 -81.83071675298741 
+
+../instances/i-2.txt epsilon-greedy 46 0.02 25600.0 92.43026854649852 
+
+../instances/i-2.txt epsilon-greedy 47 0.02 25600.0 472.7127153990195 
+
+../instances/i-2.txt epsilon-greedy 48 0.02 25600.0 73.87151758221246 
+
+../instances/i-2.txt epsilon-greedy 49 0.02 25600.0 625.7428061391246 
+
+../instances/i-2.txt epsilon-greedy 0 0.02 102400.0 657.3258296961235 
+
+../instances/i-2.txt epsilon-greedy 1 0.02 102400.0 311.48993602044754 
+
+../instances/i-2.txt epsilon-greedy 2 0.02 102400.0 373.1106396276061 
+
+../instances/i-2.txt epsilon-greedy 3 0.02 102400.0 843.8966789754863 
+
+../instances/i-2.txt epsilon-greedy 4 0.02 102400.0 633.7300465906052 
+
+../instances/i-2.txt epsilon-greedy 5 0.02 102400.0 656.3491031555241 
+
+../instances/i-2.txt epsilon-greedy 6 0.02 102400.0 683.6667373793979 
+
+../instances/i-2.txt epsilon-greedy 7 0.02 102400.0 450.8307840927072 
+
+../instances/i-2.txt epsilon-greedy 8 0.02 102400.0 -70.68263021901844 
+
+../instances/i-2.txt epsilon-greedy 9 0.02 102400.0 325.0340170891587 
+
+../instances/i-2.txt epsilon-greedy 10 0.02 102400.0 365.47287743947663 
+
+../instances/i-2.txt epsilon-greedy 11 0.02 102400.0 745.0976621804288 
+
+../instances/i-2.txt epsilon-greedy 12 0.02 102400.0 639.934798939901 
+
+../instances/i-2.txt epsilon-greedy 13 0.02 102400.0 1883.3894401211805 
+
+../instances/i-2.txt epsilon-greedy 14 0.02 102400.0 609.10152257667 
+
+../instances/i-2.txt epsilon-greedy 15 0.02 102400.0 491.7343882670827 
+
+../instances/i-2.txt epsilon-greedy 16 0.02 102400.0 1382.1182988829007 
+
+../instances/i-2.txt epsilon-greedy 17 0.02 102400.0 245.05661554645386 
+
+../instances/i-2.txt epsilon-greedy 18 0.02 102400.0 645.0562338071605 
+
+../instances/i-2.txt epsilon-greedy 19 0.02 102400.0 891.5247952217833 
+
+../instances/i-2.txt epsilon-greedy 20 0.02 102400.0 570.5666162714432 
+
+../instances/i-2.txt epsilon-greedy 21 0.02 102400.0 852.9116974946331 
+
+../instances/i-2.txt epsilon-greedy 22 0.02 102400.0 403.3472873548261 
+
+../instances/i-2.txt epsilon-greedy 23 0.02 102400.0 915.6381069444334 
+
+../instances/i-2.txt epsilon-greedy 24 0.02 102400.0 411.7074145419874 
+
+../instances/i-2.txt epsilon-greedy 25 0.02 102400.0 59.23088873003966 
+
+../instances/i-2.txt epsilon-greedy 26 0.02 102400.0 520.6307987366656 
+
+../instances/i-2.txt epsilon-greedy 27 0.02 102400.0 743.1295401957325 
+
+../instances/i-2.txt epsilon-greedy 28 0.02 102400.0 352.6302547686628 
+
+../instances/i-2.txt epsilon-greedy 29 0.02 102400.0 551.3042088763358 
+
+../instances/i-2.txt epsilon-greedy 30 0.02 102400.0 537.8825074485268 
+
+../instances/i-2.txt epsilon-greedy 31 0.02 102400.0 869.7147342947294 
+
+../instances/i-2.txt epsilon-greedy 32 0.02 102400.0 112.78787410953639 
+
+../instances/i-2.txt epsilon-greedy 33 0.02 102400.0 748.4085249215283 
+
+../instances/i-2.txt epsilon-greedy 34 0.02 102400.0 501.77951701097385 
+
+../instances/i-2.txt epsilon-greedy 35 0.02 102400.0 597.4557311620129 
+
+../instances/i-2.txt epsilon-greedy 36 0.02 102400.0 663.5223009075359 
+
+../instances/i-2.txt epsilon-greedy 37 0.02 102400.0 211.48637904051608 
+
+../instances/i-2.txt epsilon-greedy 38 0.02 102400.0 977.8269403539883 
+
+../instances/i-2.txt epsilon-greedy 39 0.02 102400.0 532.6799063375099 
+
+../instances/i-2.txt epsilon-greedy 40 0.02 102400.0 402.5411539469952 
+
+../instances/i-2.txt epsilon-greedy 41 0.02 102400.0 681.9684106278011 
+
+../instances/i-2.txt epsilon-greedy 42 0.02 102400.0 748.97218351674 
+
+../instances/i-2.txt epsilon-greedy 43 0.02 102400.0 303.0016263472123 
+
+../instances/i-2.txt epsilon-greedy 44 0.02 102400.0 559.8890499330039 
+
+../instances/i-2.txt epsilon-greedy 45 0.02 102400.0 310.9877403936031 
+
+../instances/i-2.txt epsilon-greedy 46 0.02 102400.0 323.4679246704255 
+
+../instances/i-2.txt epsilon-greedy 47 0.02 102400.0 1008.5496987027435 
+
+../instances/i-2.txt epsilon-greedy 48 0.02 102400.0 452.8142524988708 
+
+../instances/i-2.txt epsilon-greedy 49 0.02 102400.0 927.745092679722 
+
+../instances/i-2.txt ucb 0 0.02 100.0 23.51142814725476 
+
+../instances/i-2.txt ucb 1 0.02 100.0 9.034978511936597 
+
+../instances/i-2.txt ucb 2 0.02 100.0 5.530415201443482 
+
+../instances/i-2.txt ucb 3 0.02 100.0 9.83949392939437 
+
+../instances/i-2.txt ucb 4 0.02 100.0 14.745940410238742 
+
+../instances/i-2.txt ucb 5 0.02 100.0 9.319688932371795 
+
+../instances/i-2.txt ucb 6 0.02 100.0 29.05233438079798 
+
+../instances/i-2.txt ucb 7 0.02 100.0 8.067465061583302 
+
+../instances/i-2.txt ucb 8 0.02 100.0 17.773996784071176 
+
+../instances/i-2.txt ucb 9 0.02 100.0 7.509355521114624 
+
+../instances/i-2.txt ucb 10 0.02 100.0 8.682973069361484 
+
+../instances/i-2.txt ucb 11 0.02 100.0 5.513013091334584 
+
+../instances/i-2.txt ucb 12 0.02 100.0 15.25927588618818 
+
+../instances/i-2.txt ucb 13 0.02 100.0 9.496181960636056 
+
+../instances/i-2.txt ucb 14 0.02 100.0 18.97528455558318 
+
+../instances/i-2.txt ucb 15 0.02 100.0 -0.2459398457066081 
+
+../instances/i-2.txt ucb 16 0.02 100.0 6.251686745025731 
+
+../instances/i-2.txt ucb 17 0.02 100.0 8.860481296170283 
+
+../instances/i-2.txt ucb 18 0.02 100.0 7.989580468511455 
+
+../instances/i-2.txt ucb 19 0.02 100.0 13.195818064716255 
+
+../instances/i-2.txt ucb 20 0.02 100.0 19.521102467425937 
+
+../instances/i-2.txt ucb 21 0.02 100.0 10.784738469520176 
+
+../instances/i-2.txt ucb 22 0.02 100.0 6.365768339604487 
+
+../instances/i-2.txt ucb 23 0.02 100.0 16.750250119638213 
+
+../instances/i-2.txt ucb 24 0.02 100.0 23.834302049957646 
+
+../instances/i-2.txt ucb 25 0.02 100.0 12.002172877983488 
+
+../instances/i-2.txt ucb 26 0.02 100.0 14.880975824360432 
+
+../instances/i-2.txt ucb 27 0.02 100.0 24.062500514710248 
+
+../instances/i-2.txt ucb 28 0.02 100.0 17.429301339490692 
+
+../instances/i-2.txt ucb 29 0.02 100.0 20.304181207611744 
+
+../instances/i-2.txt ucb 30 0.02 100.0 11.476171966822761 
+
+../instances/i-2.txt ucb 31 0.02 100.0 -1.8244921503134544 
+
+../instances/i-2.txt ucb 32 0.02 100.0 17.46427083402507 
+
+../instances/i-2.txt ucb 33 0.02 100.0 3.7235822763637887 
+
+../instances/i-2.txt ucb 34 0.02 100.0 7.768408777227369 
+
+../instances/i-2.txt ucb 35 0.02 100.0 12.644211155673512 
+
+../instances/i-2.txt ucb 36 0.02 100.0 2.886260585662046 
+
+../instances/i-2.txt ucb 37 0.02 100.0 14.046983382420018 
+
+../instances/i-2.txt ucb 38 0.02 100.0 11.994824328389038 
+
+../instances/i-2.txt ucb 39 0.02 100.0 27.05401170410544 
+
+../instances/i-2.txt ucb 40 0.02 100.0 19.100665889476552 
+
+../instances/i-2.txt ucb 41 0.02 100.0 3.299970416989942 
+
+../instances/i-2.txt ucb 42 0.02 100.0 3.9710379108162486 
+
+../instances/i-2.txt ucb 43 0.02 100.0 15.90635167397291 
+
+../instances/i-2.txt ucb 44 0.02 100.0 19.944817985702247 
+
+../instances/i-2.txt ucb 45 0.02 100.0 8.458742936002208 
+
+../instances/i-2.txt ucb 46 0.02 100.0 4.340862005091016 
+
+../instances/i-2.txt ucb 47 0.02 100.0 13.718689567191829 
+
+../instances/i-2.txt ucb 48 0.02 100.0 11.739833735746716 
+
+../instances/i-2.txt ucb 49 0.02 100.0 18.357882872119365 
+
+../instances/i-2.txt ucb 0 0.02 400.0 55.000413384788736 
+
+../instances/i-2.txt ucb 1 0.02 400.0 39.039495869695074 
+
+../instances/i-2.txt ucb 2 0.02 400.0 28.636669820626494 
+
+../instances/i-2.txt ucb 3 0.02 400.0 36.398810919223095 
+
+../instances/i-2.txt ucb 4 0.02 400.0 51.13657703907997 
+
+../instances/i-2.txt ucb 5 0.02 400.0 34.87452714363889 
+
+../instances/i-2.txt ucb 6 0.02 400.0 54.130053243471274 
+
+../instances/i-2.txt ucb 7 0.02 400.0 29.330018283928883 
+
+../instances/i-2.txt ucb 8 0.02 400.0 43.026109576846935 
+
+../instances/i-2.txt ucb 9 0.02 400.0 39.75447912261144 
+
+../instances/i-2.txt ucb 10 0.02 400.0 38.153907672861195 
+
+../instances/i-2.txt ucb 11 0.02 400.0 39.24690612602552 
+
+../instances/i-2.txt ucb 12 0.02 400.0 53.99363117403159 
+
+../instances/i-2.txt ucb 13 0.02 400.0 20.738605479953886 
+
+../instances/i-2.txt ucb 14 0.02 400.0 41.41570726288123 
+
+../instances/i-2.txt ucb 15 0.02 400.0 16.756141925834125 
+
+../instances/i-2.txt ucb 16 0.02 400.0 34.84381769158916 
+
+../instances/i-2.txt ucb 17 0.02 400.0 38.63470848621039 
+
+../instances/i-2.txt ucb 18 0.02 400.0 39.74853011021685 
+
+../instances/i-2.txt ucb 19 0.02 400.0 27.945089213911125 
+
+../instances/i-2.txt ucb 20 0.02 400.0 49.19848739542676 
+
+../instances/i-2.txt ucb 21 0.02 400.0 29.928239452379767 
+
+../instances/i-2.txt ucb 22 0.02 400.0 41.10457139332672 
+
+../instances/i-2.txt ucb 23 0.02 400.0 35.00435537962715 
+
+../instances/i-2.txt ucb 24 0.02 400.0 58.18140310948599 
+
+../instances/i-2.txt ucb 25 0.02 400.0 34.11689636034709 
+
+../instances/i-2.txt ucb 26 0.02 400.0 41.91366434143096 
+
+../instances/i-2.txt ucb 27 0.02 400.0 66.02765276597069 
+
+../instances/i-2.txt ucb 28 0.02 400.0 57.96166878645384 
+
+../instances/i-2.txt ucb 29 0.02 400.0 48.14466888193132 
+
+../instances/i-2.txt ucb 30 0.02 400.0 35.54266823930047 
+
+../instances/i-2.txt ucb 31 0.02 400.0 12.915104433137707 
+
+../instances/i-2.txt ucb 32 0.02 400.0 46.48434913204374 
+
+../instances/i-2.txt ucb 33 0.02 400.0 39.63568929279152 
+
+../instances/i-2.txt ucb 34 0.02 400.0 25.655847480715895 
+
+../instances/i-2.txt ucb 35 0.02 400.0 43.65790851746327 
+
+../instances/i-2.txt ucb 36 0.02 400.0 34.198807291681526 
+
+../instances/i-2.txt ucb 37 0.02 400.0 23.791713198360988 
+
+../instances/i-2.txt ucb 38 0.02 400.0 42.23399484268988 
+
+../instances/i-2.txt ucb 39 0.02 400.0 63.83681069702264 
+
+../instances/i-2.txt ucb 40 0.02 400.0 47.14835206840189 
+
+../instances/i-2.txt ucb 41 0.02 400.0 15.393084516555312 
+
+../instances/i-2.txt ucb 42 0.02 400.0 30.01436805111154 
+
+../instances/i-2.txt ucb 43 0.02 400.0 48.19421312319759 
+
+../instances/i-2.txt ucb 44 0.02 400.0 54.96115575830393 
+
+../instances/i-2.txt ucb 45 0.02 400.0 38.00195368757136 
+
+../instances/i-2.txt ucb 46 0.02 400.0 20.15958835827784 
+
+../instances/i-2.txt ucb 47 0.02 400.0 42.75438603442627 
+
+../instances/i-2.txt ucb 48 0.02 400.0 28.347035917796532 
+
+../instances/i-2.txt ucb 49 0.02 400.0 50.42369173850526 
+
+../instances/i-2.txt ucb 0 0.02 1600.0 119.24606260808959 
+
+../instances/i-2.txt ucb 1 0.02 1600.0 107.14992111385985 
+
+../instances/i-2.txt ucb 2 0.02 1600.0 61.38806182166324 
+
+../instances/i-2.txt ucb 3 0.02 1600.0 109.02438923816078 
+
+../instances/i-2.txt ucb 4 0.02 1600.0 125.43150266413197 
+
+../instances/i-2.txt ucb 5 0.02 1600.0 102.75771756278854 
+
+../instances/i-2.txt ucb 6 0.02 1600.0 116.69715045871818 
+
+../instances/i-2.txt ucb 7 0.02 1600.0 71.92415872164466 
+
+../instances/i-2.txt ucb 8 0.02 1600.0 109.52886972892841 
+
+../instances/i-2.txt ucb 9 0.02 1600.0 112.3396352366749 
+
+../instances/i-2.txt ucb 10 0.02 1600.0 95.26857000485303 
+
+../instances/i-2.txt ucb 11 0.02 1600.0 80.77842550038432 
+
+../instances/i-2.txt ucb 12 0.02 1600.0 152.23090977827485 
+
+../instances/i-2.txt ucb 13 0.02 1600.0 73.8301097340725 
+
+../instances/i-2.txt ucb 14 0.02 1600.0 105.55381962066915 
+
+../instances/i-2.txt ucb 15 0.02 1600.0 26.051790617119003 
+
+../instances/i-2.txt ucb 16 0.02 1600.0 84.92833971436778 
+
+../instances/i-2.txt ucb 17 0.02 1600.0 91.71843023638189 
+
+../instances/i-2.txt ucb 18 0.02 1600.0 98.80919381060906 
+
+../instances/i-2.txt ucb 19 0.02 1600.0 80.77394081328386 
+
+../instances/i-2.txt ucb 20 0.02 1600.0 81.80555960257175 
+
+../instances/i-2.txt ucb 21 0.02 1600.0 59.50819323850268 
+
+../instances/i-2.txt ucb 22 0.02 1600.0 125.14731684859811 
+
+../instances/i-2.txt ucb 23 0.02 1600.0 26.630430360306846 
+
+../instances/i-2.txt ucb 24 0.02 1600.0 152.8241202167881 
+
+../instances/i-2.txt ucb 25 0.02 1600.0 109.7736705469841 
+
+../instances/i-2.txt ucb 26 0.02 1600.0 108.84924554569534 
+
+../instances/i-2.txt ucb 27 0.02 1600.0 126.92868048362888 
+
+../instances/i-2.txt ucb 28 0.02 1600.0 124.86840453766898 
+
+../instances/i-2.txt ucb 29 0.02 1600.0 106.7944307737268 
+
+../instances/i-2.txt ucb 30 0.02 1600.0 95.19559661601116 
+
+../instances/i-2.txt ucb 31 0.02 1600.0 84.50521276254089 
+
+../instances/i-2.txt ucb 32 0.02 1600.0 101.12744528589113 
+
+../instances/i-2.txt ucb 33 0.02 1600.0 126.89051556234666 
+
+../instances/i-2.txt ucb 34 0.02 1600.0 44.135041519412766 
+
+../instances/i-2.txt ucb 35 0.02 1600.0 97.34207827596406 
+
+../instances/i-2.txt ucb 36 0.02 1600.0 104.61348263135999 
+
+../instances/i-2.txt ucb 37 0.02 1600.0 61.85558881198518 
+
+../instances/i-2.txt ucb 38 0.02 1600.0 115.92486829932923 
+
+../instances/i-2.txt ucb 39 0.02 1600.0 133.1947636084242 
+
+../instances/i-2.txt ucb 40 0.02 1600.0 136.43136063108292 
+
+../instances/i-2.txt ucb 41 0.02 1600.0 64.15600075107416 
+
+../instances/i-2.txt ucb 42 0.02 1600.0 75.45295625251946 
+
+../instances/i-2.txt ucb 43 0.02 1600.0 139.8219699305688 
+
+../instances/i-2.txt ucb 44 0.02 1600.0 122.2694839620703 
+
+../instances/i-2.txt ucb 45 0.02 1600.0 67.25808301739762 
+
+../instances/i-2.txt ucb 46 0.02 1600.0 54.80682227458104 
+
+../instances/i-2.txt ucb 47 0.02 1600.0 110.93995329616921 
+
+../instances/i-2.txt ucb 48 0.02 1600.0 70.61513892099822 
+
+../instances/i-2.txt ucb 49 0.02 1600.0 111.53453891810112 
+
+../instances/i-2.txt ucb 0 0.02 6400.0 195.34163828437897 
+
+../instances/i-2.txt ucb 1 0.02 6400.0 206.67761098835848 
+
+../instances/i-2.txt ucb 2 0.02 6400.0 108.20156544360108 
+
+../instances/i-2.txt ucb 3 0.02 6400.0 140.47243739871715 
+
+../instances/i-2.txt ucb 4 0.02 6400.0 252.78702849442135 
+
+../instances/i-2.txt ucb 5 0.02 6400.0 211.8655991292772 
+
+../instances/i-2.txt ucb 6 0.02 6400.0 248.1737022645049 
+
+../instances/i-2.txt ucb 7 0.02 6400.0 131.11962824349507 
+
+../instances/i-2.txt ucb 8 0.02 6400.0 197.4815733111212 
+
+../instances/i-2.txt ucb 9 0.02 6400.0 166.2116676709628 
+
+../instances/i-2.txt ucb 10 0.02 6400.0 137.27550855991763 
+
+../instances/i-2.txt ucb 11 0.02 6400.0 178.47933831269165 
+
+../instances/i-2.txt ucb 12 0.02 6400.0 191.82921084143285 
+
+../instances/i-2.txt ucb 13 0.02 6400.0 189.86793465943936 
+
+../instances/i-2.txt ucb 14 0.02 6400.0 277.65713194663095 
+
+../instances/i-2.txt ucb 15 0.02 6400.0 82.52105767017184 
+
+../instances/i-2.txt ucb 16 0.02 6400.0 189.30636057750584 
+
+../instances/i-2.txt ucb 17 0.02 6400.0 181.9274114774761 
+
+../instances/i-2.txt ucb 18 0.02 6400.0 158.3286172234865 
+
+../instances/i-2.txt ucb 19 0.02 6400.0 217.58476216168157 
+
+../instances/i-2.txt ucb 20 0.02 6400.0 166.6447442188653 
+
+../instances/i-2.txt ucb 21 0.02 6400.0 101.95122759147152 
+
+../instances/i-2.txt ucb 22 0.02 6400.0 201.07177063858614 
+
+../instances/i-2.txt ucb 23 0.02 6400.0 17.907177775763643 
+
+../instances/i-2.txt ucb 24 0.02 6400.0 243.76764629989108 
+
+../instances/i-2.txt ucb 25 0.02 6400.0 209.5895178960332 
+
+../instances/i-2.txt ucb 26 0.02 6400.0 185.64778355537928 
+
+../instances/i-2.txt ucb 27 0.02 6400.0 252.66124164800698 
+
+../instances/i-2.txt ucb 28 0.02 6400.0 167.5531524836649 
+
+../instances/i-2.txt ucb 29 0.02 6400.0 230.05916944268859 
+
+../instances/i-2.txt ucb 30 0.02 6400.0 271.879291361117 
+
+../instances/i-2.txt ucb 31 0.02 6400.0 178.68040830050364 
+
+../instances/i-2.txt ucb 32 0.02 6400.0 164.20881931557534 
+
+../instances/i-2.txt ucb 33 0.02 6400.0 236.86526247618045 
+
+../instances/i-2.txt ucb 34 0.02 6400.0 27.18726821198192 
+
+../instances/i-2.txt ucb 35 0.02 6400.0 204.509769493371 
+
+../instances/i-2.txt ucb 36 0.02 6400.0 239.69629893535878 
+
+../instances/i-2.txt ucb 37 0.02 6400.0 101.50251504075595 
+
+../instances/i-2.txt ucb 38 0.02 6400.0 210.01786566774825 
+
+../instances/i-2.txt ucb 39 0.02 6400.0 249.53977612864813 
+
+../instances/i-2.txt ucb 40 0.02 6400.0 276.06261006209087 
+
+../instances/i-2.txt ucb 41 0.02 6400.0 186.90190109776918 
+
+../instances/i-2.txt ucb 42 0.02 6400.0 139.01845588078228 
+
+../instances/i-2.txt ucb 43 0.02 6400.0 315.3454899847461 
+
+../instances/i-2.txt ucb 44 0.02 6400.0 195.61183200401354 
+
+../instances/i-2.txt ucb 45 0.02 6400.0 88.26259897413513 
+
+../instances/i-2.txt ucb 46 0.02 6400.0 185.04665939391006 
+
+../instances/i-2.txt ucb 47 0.02 6400.0 184.23756523369576 
+
+../instances/i-2.txt ucb 48 0.02 6400.0 144.3088031499895 
+
+../instances/i-2.txt ucb 49 0.02 6400.0 212.94018812569868 
+
+../instances/i-2.txt ucb 0 0.02 25600.0 164.7062680989599 
+
+../instances/i-2.txt ucb 1 0.02 25600.0 307.4849890593945 
+
+../instances/i-2.txt ucb 2 0.02 25600.0 190.45462178809524 
+
+../instances/i-2.txt ucb 3 0.02 25600.0 125.46546779026315 
+
+../instances/i-2.txt ucb 4 0.02 25600.0 400.91941405762856 
+
+../instances/i-2.txt ucb 5 0.02 25600.0 362.25600324933737 
+
+../instances/i-2.txt ucb 6 0.02 25600.0 387.268438964091 
+
+../instances/i-2.txt ucb 7 0.02 25600.0 215.29946083519545 
+
+../instances/i-2.txt ucb 8 0.02 25600.0 200.7485874263046 
+
+../instances/i-2.txt ucb 9 0.02 25600.0 169.30217819927893 
+
+../instances/i-2.txt ucb 10 0.02 25600.0 150.77250196575503 
+
+../instances/i-2.txt ucb 11 0.02 25600.0 226.4057010957108 
+
+../instances/i-2.txt ucb 12 0.02 25600.0 213.58151403827117 
+
+../instances/i-2.txt ucb 13 0.02 25600.0 493.09941905381714 
+
+../instances/i-2.txt ucb 14 0.02 25600.0 446.32183891302344 
+
+../instances/i-2.txt ucb 15 0.02 25600.0 254.06548574117573 
+
+../instances/i-2.txt ucb 16 0.02 25600.0 351.34902103479715 
+
+../instances/i-2.txt ucb 17 0.02 25600.0 179.1052403835376 
+
+../instances/i-2.txt ucb 18 0.02 25600.0 221.34175826670904 
+
+../instances/i-2.txt ucb 19 0.02 25600.0 357.6628322935228 
+
+../instances/i-2.txt ucb 20 0.02 25600.0 299.43585699092677 
+
+../instances/i-2.txt ucb 21 0.02 25600.0 237.4841172932139 
+
+../instances/i-2.txt ucb 22 0.02 25600.0 365.91071190040356 
+
+../instances/i-2.txt ucb 23 0.02 25600.0 -5.878361686346693 
+
+../instances/i-2.txt ucb 24 0.02 25600.0 299.44167247199823 
+
+../instances/i-2.txt ucb 25 0.02 25600.0 346.2554515591051 
+
+../instances/i-2.txt ucb 26 0.02 25600.0 263.0447099014654 
+
+../instances/i-2.txt ucb 27 0.02 25600.0 355.95773560305827 
+
+../instances/i-2.txt ucb 28 0.02 25600.0 224.05718339454444 
+
+../instances/i-2.txt ucb 29 0.02 25600.0 471.96567330825053 
+
+../instances/i-2.txt ucb 30 0.02 25600.0 444.4488041937011 
+
+../instances/i-2.txt ucb 31 0.02 25600.0 357.27581014903353 
+
+../instances/i-2.txt ucb 32 0.02 25600.0 375.66086400921455 
+
+../instances/i-2.txt ucb 33 0.02 25600.0 368.17636368159634 
+
+../instances/i-2.txt ucb 34 0.02 25600.0 66.64204324109271 
+
+../instances/i-2.txt ucb 35 0.02 25600.0 374.16567354564734 
+
+../instances/i-2.txt ucb 36 0.02 25600.0 488.81532273855504 
+
+../instances/i-2.txt ucb 37 0.02 25600.0 119.252518647718 
+
+../instances/i-2.txt ucb 38 0.02 25600.0 335.46404558865936 
+
+../instances/i-2.txt ucb 39 0.02 25600.0 454.5183980890039 
+
+../instances/i-2.txt ucb 40 0.02 25600.0 418.7555573643752 
+
+../instances/i-2.txt ucb 41 0.02 25600.0 242.03361010299335 
+
+../instances/i-2.txt ucb 42 0.02 25600.0 163.35045684373313 
+
+../instances/i-2.txt ucb 43 0.02 25600.0 587.4032169742512 
+
+../instances/i-2.txt ucb 44 0.02 25600.0 234.04396195632 
+
+../instances/i-2.txt ucb 45 0.02 25600.0 118.32115357881133 
+
+../instances/i-2.txt ucb 46 0.02 25600.0 250.33536572543224 
+
+../instances/i-2.txt ucb 47 0.02 25600.0 201.5149274565946 
+
+../instances/i-2.txt ucb 48 0.02 25600.0 305.3047672205052 
+
+../instances/i-2.txt ucb 49 0.02 25600.0 283.13538503689125 
+
+../instances/i-2.txt ucb 0 0.02 102400.0 105.96855727607628 
+
+../instances/i-2.txt ucb 1 0.02 102400.0 399.6548415265973 
+
+../instances/i-2.txt ucb 2 0.02 102400.0 405.19324188900646 
+
+../instances/i-2.txt ucb 3 0.02 102400.0 216.7911886734923 
+
+../instances/i-2.txt ucb 4 0.02 102400.0 469.82562391285984 
+
+../instances/i-2.txt ucb 5 0.02 102400.0 537.9901700998215 
+
+../instances/i-2.txt ucb 6 0.02 102400.0 296.3450552762654 
+
+../instances/i-2.txt ucb 7 0.02 102400.0 328.24171383246664 
+
+../instances/i-2.txt ucb 8 0.02 102400.0 -104.17409964155235 
+
+../instances/i-2.txt ucb 9 0.02 102400.0 124.6282372880799 
+
+../instances/i-2.txt ucb 10 0.02 102400.0 190.91381530928936 
+
+../instances/i-2.txt ucb 11 0.02 102400.0 337.4405484982425 
+
+../instances/i-2.txt ucb 12 0.02 102400.0 227.13480784095412 
+
+../instances/i-2.txt ucb 13 0.02 102400.0 697.3162193618841 
+
+../instances/i-2.txt ucb 14 0.02 102400.0 702.152994496723 
+
+../instances/i-2.txt ucb 15 0.02 102400.0 309.34696351730184 
+
+../instances/i-2.txt ucb 16 0.02 102400.0 376.4188566673709 
+
+../instances/i-2.txt ucb 17 0.02 102400.0 77.00315143793668 
+
+../instances/i-2.txt ucb 18 0.02 102400.0 249.07039039709758 
+
+../instances/i-2.txt ucb 19 0.02 102400.0 444.2563448782941 
+
+../instances/i-2.txt ucb 20 0.02 102400.0 340.77621166920994 
+
+../instances/i-2.txt ucb 21 0.02 102400.0 277.8519847988202 
+
+../instances/i-2.txt ucb 22 0.02 102400.0 666.1576001754663 
+
+../instances/i-2.txt ucb 23 0.02 102400.0 -23.93597746412724 
+
+../instances/i-2.txt ucb 24 0.02 102400.0 406.05809596699174 
+
+../instances/i-2.txt ucb 25 0.02 102400.0 437.9093327244412 
+
+../instances/i-2.txt ucb 26 0.02 102400.0 348.2454318342898 
+
+../instances/i-2.txt ucb 27 0.02 102400.0 635.2915550801199 
+
+../instances/i-2.txt ucb 28 0.02 102400.0 120.43079919527034 
+
+../instances/i-2.txt ucb 29 0.02 102400.0 848.9880733768944 
+
+../instances/i-2.txt ucb 30 0.02 102400.0 556.2601884286983 
+
+../instances/i-2.txt ucb 31 0.02 102400.0 559.320110140942 
+
+../instances/i-2.txt ucb 32 0.02 102400.0 530.4086206550322 
+
+../instances/i-2.txt ucb 33 0.02 102400.0 593.6839114082704 
+
+../instances/i-2.txt ucb 34 0.02 102400.0 197.57626020378981 
+
+../instances/i-2.txt ucb 35 0.02 102400.0 635.9786449388134 
+
+../instances/i-2.txt ucb 36 0.02 102400.0 870.4475756809436 
+
+../instances/i-2.txt ucb 37 0.02 102400.0 149.14755668599437 
+
+../instances/i-2.txt ucb 38 0.02 102400.0 415.3993500921095 
+
+../instances/i-2.txt ucb 39 0.02 102400.0 823.366359088102 
+
+../instances/i-2.txt ucb 40 0.02 102400.0 659.4498457078683 
+
+../instances/i-2.txt ucb 41 0.02 102400.0 235.32113034467713 
+
+../instances/i-2.txt ucb 42 0.02 102400.0 281.38746183865476 
+
+../instances/i-2.txt ucb 43 0.02 102400.0 937.9360189178941 
+
+../instances/i-2.txt ucb 44 0.02 102400.0 112.65289115422728 
+
+../instances/i-2.txt ucb 45 0.02 102400.0 192.8349598716515 
+
+../instances/i-2.txt ucb 46 0.02 102400.0 283.87009350981117 
+
+../instances/i-2.txt ucb 47 0.02 102400.0 155.61551259518058 
+
+../instances/i-2.txt ucb 48 0.02 102400.0 375.37212838141903 
+
+../instances/i-2.txt ucb 49 0.02 102400.0 268.34570626231994 
+
+../instances/i-2.txt kl-ucb 0 0.02 100.0 11.731183188567293 
+
+../instances/i-2.txt kl-ucb 1 0.02 100.0 4.2188061785111985 
+
+../instances/i-2.txt kl-ucb 2 0.02 100.0 12.59486068265335 
+
+../instances/i-2.txt kl-ucb 3 0.02 100.0 9.000002868975812 
+
+../instances/i-2.txt kl-ucb 4 0.02 100.0 18.48753984577514 
+
+../instances/i-2.txt kl-ucb 5 0.02 100.0 6.432901798942239 
+
+../instances/i-2.txt kl-ucb 6 0.02 100.0 25.17099045524338 
+
+../instances/i-2.txt kl-ucb 7 0.02 100.0 7.835324669270472 
+
+../instances/i-2.txt kl-ucb 8 0.02 100.0 17.391981783091737 
+
+../instances/i-2.txt kl-ucb 9 0.02 100.0 2.505448370549804 
+
+../instances/i-2.txt kl-ucb 10 0.02 100.0 11.220579933322334 
+
+../instances/i-2.txt kl-ucb 11 0.02 100.0 12.727534905829842 
+
+../instances/i-2.txt kl-ucb 12 0.02 100.0 8.836814831012791 
+
+../instances/i-2.txt kl-ucb 13 0.02 100.0 16.037102305106718 
+
+../instances/i-2.txt kl-ucb 14 0.02 100.0 5.23997586944609 
+
+../instances/i-2.txt kl-ucb 15 0.02 100.0 -3.386752023172905 
+
+../instances/i-2.txt kl-ucb 16 0.02 100.0 7.691399934327162 
+
+../instances/i-2.txt kl-ucb 17 0.02 100.0 12.091656603720503 
+
+../instances/i-2.txt kl-ucb 18 0.02 100.0 18.390483028016845 
+
+../instances/i-2.txt kl-ucb 19 0.02 100.0 13.13255496061263 
+
+../instances/i-2.txt kl-ucb 20 0.02 100.0 11.302835549950853 
+
+../instances/i-2.txt kl-ucb 21 0.02 100.0 8.40940260115156 
+
+../instances/i-2.txt kl-ucb 22 0.02 100.0 8.441253808235848 
+
+../instances/i-2.txt kl-ucb 23 0.02 100.0 11.273491556794639 
+
+../instances/i-2.txt kl-ucb 24 0.02 100.0 24.11204057589692 
+
+../instances/i-2.txt kl-ucb 25 0.02 100.0 12.9625198403733 
+
+../instances/i-2.txt kl-ucb 26 0.02 100.0 13.802438218319166 
+
+../instances/i-2.txt kl-ucb 27 0.02 100.0 19.115472666905223 
+
+../instances/i-2.txt kl-ucb 28 0.02 100.0 13.77003423162926 
+
+../instances/i-2.txt kl-ucb 29 0.02 100.0 16.103499978036307 
+
+../instances/i-2.txt kl-ucb 30 0.02 100.0 16.026875997161902 
+
+../instances/i-2.txt kl-ucb 31 0.02 100.0 -5.355409711163767 
+
+../instances/i-2.txt kl-ucb 32 0.02 100.0 11.480702706119361 
+
+../instances/i-2.txt kl-ucb 33 0.02 100.0 7.278136420330638 
+
+../instances/i-2.txt kl-ucb 34 0.02 100.0 5.178450854944064 
+
+../instances/i-2.txt kl-ucb 35 0.02 100.0 15.75234519896333 
+
+../instances/i-2.txt kl-ucb 36 0.02 100.0 5.882156582345206 
+
+../instances/i-2.txt kl-ucb 37 0.02 100.0 10.69331439499546 
+
+../instances/i-2.txt kl-ucb 38 0.02 100.0 15.09733800803126 
+
+../instances/i-2.txt kl-ucb 39 0.02 100.0 23.192996296409884 
+
+../instances/i-2.txt kl-ucb 40 0.02 100.0 22.48576972145925 
+
+../instances/i-2.txt kl-ucb 41 0.02 100.0 3.008286707504042 
+
+../instances/i-2.txt kl-ucb 42 0.02 100.0 13.658959335795446 
+
+../instances/i-2.txt kl-ucb 43 0.02 100.0 16.898290201444766 
+
+../instances/i-2.txt kl-ucb 44 0.02 100.0 13.152428838093797 
+
+../instances/i-2.txt kl-ucb 45 0.02 100.0 9.565485188492357 
+
+../instances/i-2.txt kl-ucb 46 0.02 100.0 -5.90650349348989 
+
+../instances/i-2.txt kl-ucb 47 0.02 100.0 14.089702718845523 
+
+../instances/i-2.txt kl-ucb 48 0.02 100.0 3.426331947665747 
+
+../instances/i-2.txt kl-ucb 49 0.02 100.0 21.03815109146087 
+
+../instances/i-2.txt kl-ucb 0 0.02 400.0 22.712158012717705 
+
+../instances/i-2.txt kl-ucb 1 0.02 400.0 24.312522131595852 
+
+../instances/i-2.txt kl-ucb 2 0.02 400.0 41.025639588234014 
+
+../instances/i-2.txt kl-ucb 3 0.02 400.0 16.07987641820902 
+
+../instances/i-2.txt kl-ucb 4 0.02 400.0 58.606606001099074 
+
+../instances/i-2.txt kl-ucb 5 0.02 400.0 25.6971317496323 
+
+../instances/i-2.txt kl-ucb 6 0.02 400.0 38.746012436087284 
+
+../instances/i-2.txt kl-ucb 7 0.02 400.0 30.168702609287326 
+
+../instances/i-2.txt kl-ucb 8 0.02 400.0 44.385680310894024 
+
+../instances/i-2.txt kl-ucb 9 0.02 400.0 21.890615248703384 
+
+../instances/i-2.txt kl-ucb 10 0.02 400.0 23.178419604501524 
+
+../instances/i-2.txt kl-ucb 11 0.02 400.0 36.42498452461194 
+
+../instances/i-2.txt kl-ucb 12 0.02 400.0 35.74812489635702 
+
+../instances/i-2.txt kl-ucb 13 0.02 400.0 21.746699023531402 
+
+../instances/i-2.txt kl-ucb 14 0.02 400.0 0.8547494433251585 
+
+../instances/i-2.txt kl-ucb 15 0.02 400.0 10.55641718245741 
+
+../instances/i-2.txt kl-ucb 16 0.02 400.0 35.61490069298119 
+
+../instances/i-2.txt kl-ucb 17 0.02 400.0 45.405325270053474 
+
+../instances/i-2.txt kl-ucb 18 0.02 400.0 58.00690402063783 
+
+../instances/i-2.txt kl-ucb 19 0.02 400.0 17.73038841605667 
+
+../instances/i-2.txt kl-ucb 20 0.02 400.0 45.22794257316234 
+
+../instances/i-2.txt kl-ucb 21 0.02 400.0 22.904224101711772 
+
+../instances/i-2.txt kl-ucb 22 0.02 400.0 44.197958516139835 
+
+../instances/i-2.txt kl-ucb 23 0.02 400.0 32.17216274785422 
+
+../instances/i-2.txt kl-ucb 24 0.02 400.0 41.99685771274995 
+
+../instances/i-2.txt kl-ucb 25 0.02 400.0 9.51744962024203 
+
+../instances/i-2.txt kl-ucb 26 0.02 400.0 38.29948887238483 
+
+../instances/i-2.txt kl-ucb 27 0.02 400.0 43.75860585356401 
+
+../instances/i-2.txt kl-ucb 28 0.02 400.0 27.89456313807419 
+
+../instances/i-2.txt kl-ucb 29 0.02 400.0 32.67061082220466 
+
+../instances/i-2.txt kl-ucb 30 0.02 400.0 31.371137427824877 
+
+../instances/i-2.txt kl-ucb 31 0.02 400.0 -2.83572014744796 
+
+../instances/i-2.txt kl-ucb 32 0.02 400.0 27.517596271532767 
+
+../instances/i-2.txt kl-ucb 33 0.02 400.0 25.198546870850908 
+
+../instances/i-2.txt kl-ucb 34 0.02 400.0 16.53785405430302 
+
+../instances/i-2.txt kl-ucb 35 0.02 400.0 58.64372561564067 
+
+../instances/i-2.txt kl-ucb 36 0.02 400.0 27.343924701240972 
+
+../instances/i-2.txt kl-ucb 37 0.02 400.0 7.904767420853061 
+
+../instances/i-2.txt kl-ucb 38 0.02 400.0 36.29249029936491 
+
+../instances/i-2.txt kl-ucb 39 0.02 400.0 43.05090712917913 
+
+../instances/i-2.txt kl-ucb 40 0.02 400.0 25.380459057571187 
+
+../instances/i-2.txt kl-ucb 41 0.02 400.0 13.134005163924071 
+
+../instances/i-2.txt kl-ucb 42 0.02 400.0 26.857706734144163 
+
+../instances/i-2.txt kl-ucb 43 0.02 400.0 31.156292868614898 
+
+../instances/i-2.txt kl-ucb 44 0.02 400.0 28.072768410021684 
+
+../instances/i-2.txt kl-ucb 45 0.02 400.0 18.707608150669394 
+
+../instances/i-2.txt kl-ucb 46 0.02 400.0 -12.513167897657622 
+
+../instances/i-2.txt kl-ucb 47 0.02 400.0 50.646694621901894 
+
+../instances/i-2.txt kl-ucb 48 0.02 400.0 10.137322086232663 
+
+../instances/i-2.txt kl-ucb 49 0.02 400.0 38.02391251306782 
+
+../instances/i-2.txt kl-ucb 0 0.02 1600.0 37.914311359068755 
+
+../instances/i-2.txt kl-ucb 1 0.02 1600.0 78.7712199938146 
+
+../instances/i-2.txt kl-ucb 2 0.02 1600.0 52.68288070099116 
+
+../instances/i-2.txt kl-ucb 3 0.02 1600.0 46.160767061243604 
+
+../instances/i-2.txt kl-ucb 4 0.02 1600.0 108.42295208458921 
+
+../instances/i-2.txt kl-ucb 5 0.02 1600.0 70.31126519536218 
+
+../instances/i-2.txt kl-ucb 6 0.02 1600.0 89.28109162859168 
+
+../instances/i-2.txt kl-ucb 7 0.02 1600.0 72.53659531223174 
+
+../instances/i-2.txt kl-ucb 8 0.02 1600.0 102.65171564019374 
+
+../instances/i-2.txt kl-ucb 9 0.02 1600.0 51.142143715119865 
+
+../instances/i-2.txt kl-ucb 10 0.02 1600.0 50.89054522672108 
+
+../instances/i-2.txt kl-ucb 11 0.02 1600.0 54.33428697002952 
+
+../instances/i-2.txt kl-ucb 12 0.02 1600.0 104.75995183745599 
+
+../instances/i-2.txt kl-ucb 13 0.02 1600.0 53.77042875892874 
+
+../instances/i-2.txt kl-ucb 14 0.02 1600.0 6.332434866765538 
+
+../instances/i-2.txt kl-ucb 15 0.02 1600.0 16.679956690642285 
+
+../instances/i-2.txt kl-ucb 16 0.02 1600.0 83.44036660022154 
+
+../instances/i-2.txt kl-ucb 17 0.02 1600.0 79.07270359751358 
+
+../instances/i-2.txt kl-ucb 18 0.02 1600.0 102.61468232216954 
+
+../instances/i-2.txt kl-ucb 19 0.02 1600.0 33.45000725218892 
+
+../instances/i-2.txt kl-ucb 20 0.02 1600.0 58.55717128150962 
+
+../instances/i-2.txt kl-ucb 21 0.02 1600.0 49.869882804099326 
+
+../instances/i-2.txt kl-ucb 22 0.02 1600.0 98.52666388029654 
+
+../instances/i-2.txt kl-ucb 23 0.02 1600.0 26.76047225196291 
+
+../instances/i-2.txt kl-ucb 24 0.02 1600.0 73.65127151430978 
+
+../instances/i-2.txt kl-ucb 25 0.02 1600.0 47.75483617184547 
+
+../instances/i-2.txt kl-ucb 26 0.02 1600.0 89.57905274068301 
+
+../instances/i-2.txt kl-ucb 27 0.02 1600.0 58.16379165260471 
+
+../instances/i-2.txt kl-ucb 28 0.02 1600.0 33.21057321888196 
+
+../instances/i-2.txt kl-ucb 29 0.02 1600.0 77.4583540094785 
+
+../instances/i-2.txt kl-ucb 30 0.02 1600.0 49.951841945752406 
+
+../instances/i-2.txt kl-ucb 31 0.02 1600.0 37.51011319343453 
+
+../instances/i-2.txt kl-ucb 32 0.02 1600.0 63.415267425788734 
+
+../instances/i-2.txt kl-ucb 33 0.02 1600.0 66.02841110311006 
+
+../instances/i-2.txt kl-ucb 34 0.02 1600.0 16.19766479616422 
+
+../instances/i-2.txt kl-ucb 35 0.02 1600.0 67.29393195576937 
+
+../instances/i-2.txt kl-ucb 36 0.02 1600.0 60.00179180410718 
+
+../instances/i-2.txt kl-ucb 37 0.02 1600.0 22.164376428198825 
+
+../instances/i-2.txt kl-ucb 38 0.02 1600.0 62.426713863176936 
+
+../instances/i-2.txt kl-ucb 39 0.02 1600.0 74.37822037191434 
+
+../instances/i-2.txt kl-ucb 40 0.02 1600.0 63.581329146870566 
+
+../instances/i-2.txt kl-ucb 41 0.02 1600.0 56.37894641125731 
+
+../instances/i-2.txt kl-ucb 42 0.02 1600.0 58.864690857603364 
+
+../instances/i-2.txt kl-ucb 43 0.02 1600.0 78.64271926647491 
+
+../instances/i-2.txt kl-ucb 44 0.02 1600.0 61.83930796323748 
+
+../instances/i-2.txt kl-ucb 45 0.02 1600.0 19.64719508620909 
+
+../instances/i-2.txt kl-ucb 46 0.02 1600.0 2.30170958234832 
+
+../instances/i-2.txt kl-ucb 47 0.02 1600.0 91.22468444725754 
+
+../instances/i-2.txt kl-ucb 48 0.02 1600.0 52.84103709907711 
+
+../instances/i-2.txt kl-ucb 49 0.02 1600.0 53.07033624737599 
+
+../instances/i-2.txt kl-ucb 0 0.02 6400.0 40.415966906726496 
+
+../instances/i-2.txt kl-ucb 1 0.02 6400.0 136.50836654795742 
+
+../instances/i-2.txt kl-ucb 2 0.02 6400.0 38.867222179348126 
+
+../instances/i-2.txt kl-ucb 3 0.02 6400.0 25.314896184207125 
+
+../instances/i-2.txt kl-ucb 4 0.02 6400.0 176.85208521005165 
+
+../instances/i-2.txt kl-ucb 5 0.02 6400.0 109.88128166631965 
+
+../instances/i-2.txt kl-ucb 6 0.02 6400.0 201.65677301377153 
+
+../instances/i-2.txt kl-ucb 7 0.02 6400.0 99.82737447787834 
+
+../instances/i-2.txt kl-ucb 8 0.02 6400.0 156.15793250136562 
+
+../instances/i-2.txt kl-ucb 9 0.02 6400.0 40.44064378407923 
+
+../instances/i-2.txt kl-ucb 10 0.02 6400.0 18.742532132835148 
+
+../instances/i-2.txt kl-ucb 11 0.02 6400.0 69.96036277685026 
+
+../instances/i-2.txt kl-ucb 12 0.02 6400.0 99.36598638388428 
+
+../instances/i-2.txt kl-ucb 13 0.02 6400.0 108.0603222605313 
+
+../instances/i-2.txt kl-ucb 14 0.02 6400.0 48.71689361743693 
+
+../instances/i-2.txt kl-ucb 15 0.02 6400.0 22.706823349924314 
+
+../instances/i-2.txt kl-ucb 16 0.02 6400.0 148.9751843897939 
+
+../instances/i-2.txt kl-ucb 17 0.02 6400.0 164.46679586478658 
+
+../instances/i-2.txt kl-ucb 18 0.02 6400.0 128.10893129842188 
+
+../instances/i-2.txt kl-ucb 19 0.02 6400.0 92.03111305822172 
+
+../instances/i-2.txt kl-ucb 20 0.02 6400.0 112.78972841044691 
+
+../instances/i-2.txt kl-ucb 21 0.02 6400.0 65.94959696640666 
+
+../instances/i-2.txt kl-ucb 22 0.02 6400.0 104.62095051725802 
+
+../instances/i-2.txt kl-ucb 23 0.02 6400.0 -6.848016374422524 
+
+../instances/i-2.txt kl-ucb 24 0.02 6400.0 74.81604683146428 
+
+../instances/i-2.txt kl-ucb 25 0.02 6400.0 117.29081343153686 
+
+../instances/i-2.txt kl-ucb 26 0.02 6400.0 113.50843134957425 
+
+../instances/i-2.txt kl-ucb 27 0.02 6400.0 116.78993539717932 
+
+../instances/i-2.txt kl-ucb 28 0.02 6400.0 25.076140319878387 
+
+../instances/i-2.txt kl-ucb 29 0.02 6400.0 151.67638215909463 
+
+../instances/i-2.txt kl-ucb 30 0.02 6400.0 145.65056172163298 
+
+../instances/i-2.txt kl-ucb 31 0.02 6400.0 78.90917247213582 
+
+../instances/i-2.txt kl-ucb 32 0.02 6400.0 98.90054329832549 
+
+../instances/i-2.txt kl-ucb 33 0.02 6400.0 141.7957870856474 
+
+../instances/i-2.txt kl-ucb 34 0.02 6400.0 13.910944424127647 
+
+../instances/i-2.txt kl-ucb 35 0.02 6400.0 112.94542435302058 
+
+../instances/i-2.txt kl-ucb 36 0.02 6400.0 145.7899324430176 
+
+../instances/i-2.txt kl-ucb 37 0.02 6400.0 23.23778011301039 
+
+../instances/i-2.txt kl-ucb 38 0.02 6400.0 95.52033746039673 
+
+../instances/i-2.txt kl-ucb 39 0.02 6400.0 144.97183674610875 
+
+../instances/i-2.txt kl-ucb 40 0.02 6400.0 142.02337834401249 
+
+../instances/i-2.txt kl-ucb 41 0.02 6400.0 115.62962732028312 
+
+../instances/i-2.txt kl-ucb 42 0.02 6400.0 100.8675050626277 
+
+../instances/i-2.txt kl-ucb 43 0.02 6400.0 198.6724515043526 
+
+../instances/i-2.txt kl-ucb 44 0.02 6400.0 99.36237810095633 
+
+../instances/i-2.txt kl-ucb 45 0.02 6400.0 18.127163067758108 
+
+../instances/i-2.txt kl-ucb 46 0.02 6400.0 67.31232171059494 
+
+../instances/i-2.txt kl-ucb 47 0.02 6400.0 148.88797921839569 
+
+../instances/i-2.txt kl-ucb 48 0.02 6400.0 119.97647066032246 
+
+../instances/i-2.txt kl-ucb 49 0.02 6400.0 103.9243260269039 
+
+../instances/i-2.txt kl-ucb 0 0.02 25600.0 -85.90176998563734 
+
+../instances/i-2.txt kl-ucb 1 0.02 25600.0 226.12977974043827 
+
+../instances/i-2.txt kl-ucb 2 0.02 25600.0 -3.6531675930596332 
+
+../instances/i-2.txt kl-ucb 3 0.02 25600.0 -46.88568311292524 
+
+../instances/i-2.txt kl-ucb 4 0.02 25600.0 251.70817888161613 
+
+../instances/i-2.txt kl-ucb 5 0.02 25600.0 144.76167977035416 
+
